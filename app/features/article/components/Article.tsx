@@ -35,7 +35,10 @@ const Article = ({ apiUrl }: ArticleProps) => {
 	return (
 		<div>
 			{articles.map((article) => (
-				<div key={article.id} className='mb-4'>
+				<div
+					key={article.id}
+					className='pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
+				>
 					<a
 						href={`https://zenn.dev/${article.user.name}/${article.slug}`}
 						target='_blank'
