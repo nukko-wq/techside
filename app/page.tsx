@@ -1,11 +1,8 @@
-
 export default function Home() {
-  return (
-    <div>
-      <header>nukko.dev</header>
-      <footer>
-        <p>© 2024 nukko.dev</p>
-      </footer>
-    </div>
-  );
+	return (
+		<div className='flex-grow px-4 py-4 max-w-7xl mx-auto'>
+			<h1>Tech Side</h1>
+			<p>Welcome to Tech Side</p>
+		</div>
+	)
 }
