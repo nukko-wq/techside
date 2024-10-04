@@ -10,6 +10,7 @@ interface ArticleData {
 	slug: string
 	emoji: string
 	user: { name: string }
+	path: string
 }
 
 interface ArticleProps {
@@ -40,7 +41,7 @@ const Article = ({ apiUrl }: ArticleProps) => {
 					className='pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
 				>
 					<a
-						href={`https://zenn.dev/${article.user.name}/${article.slug}`}
+						href={`https://zenn.dev/${article.path}`}
 						target='_blank'
 						rel='noopener noreferrer'
 						className='text-blue-500 text-lg hover:underline'
