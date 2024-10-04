@@ -5,6 +5,7 @@ interface Article {
 	title: string
 	link: string
 	pubDate: string
+	author: string
 }
 
 const QiitaArticle = () => {
@@ -37,17 +38,25 @@ const QiitaArticle = () => {
 
 	return (
 		<div>
-			<h1>Qiitaトレンド記事</h1>
-			<ul>
+			<div className=''>
 				{articles.map((article, index) => (
-					// biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
-					<li key={index}>
-						<a href={article.link} target='_blank' rel='noopener noreferrer'>
+					<div
+						// biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
+						key={index}
+						className='pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
+					>
+						<a
+							href={article.link}
+							target='_blank'
+							rel='noopener noreferrer'
+							className='text-blue-500 text-lg hover:underline'
+						>
 							{article.title}
 						</a>
-					</li>
+						<p className='text-sm text-gray-500'>{article.author}</p>
+					</div>
 				))}
-			</ul>
+			</div>
 		</div>
 	)
 }
