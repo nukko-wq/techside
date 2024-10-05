@@ -18,6 +18,10 @@ const geistMono = localFont({
 export const metadata: Metadata = {
 	title: 'Tech Side',
 	description: 'Tech Side',
+	robots: {
+		index: false,
+		follow: false,
+	},
 }
 
 export default function RootLayout({
