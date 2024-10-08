@@ -1,6 +1,8 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import Spinner from '@/app/components/elements/Spinner/Spinner'
+import { Heart } from 'lucide-react'
 
 // Zenn Tech Trendの記事を取得して表示する
 
@@ -11,6 +13,7 @@ interface ArticleData {
 	emoji: string
 	user: { name: string }
 	path: string
+	likedCount: number
 }
 
 interface ArticleProps {
@@ -19,19 +22,35 @@ interface ArticleProps {
 
 const Article = ({ apiUrl }: ArticleProps) => {
 	const [articles, setArticles] = useState<ArticleData[]>([])
+	const [isLoading, setIsLoading] = useState(true)
+	const [error, setError] = useState<string | null>(null)
 
 	useEffect(() => {
 		const fetchArticles = async () => {
 			try {
 				const response = await fetch(apiUrl)
+				if (!response.ok) {
+					throw new Error('APIリクエストに失敗しました')
+				}
 				const data = await response.json()
 				setArticles(data.slice(0, 20))
 			} catch (error) {
 				console.error('記事の取得に失敗しました:', error)
+				setError('記事の取得に失敗しました')
+			} finally {
+				setIsLoading(false)
 			}
 		}
 		fetchArticles()
 	}, [apiUrl])
+
+	if (isLoading) {
+		return <Spinner />
+	}
+
+	if (error) {
+		return <div className='text-red-500'>{error}</div>
+	}
 
 	return (
 		<div>
@@ -49,7 +68,13 @@ const Article = ({ apiUrl }: ArticleProps) => {
 						<span className='mr-2'>{article.emoji}</span>
 						{article.title}
 					</a>
-					<p className='text-sm text-gray-500'>{article.user.name}</p>
+					<div className='flex gap-4 items-center'>
+						<p className='text-sm text-gray-500'>{article.user.name}</p>
+						<p className='text-sm text-gray-500 flex gap-0.5 items-center'>
+							<Heart size={16} />
+							{article.likedCount}
+						</p>
+					</div>
 				</div>
 			))}
 		</div>
