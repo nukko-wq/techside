@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
+import { Heart } from 'lucide-react'
 
 // Zenn Tech Trendの記事を取得して表示する
 
@@ -67,8 +68,13 @@ const Article = ({ apiUrl }: ArticleProps) => {
 						<span className='mr-2'>{article.emoji}</span>
 						{article.title}
 					</a>
-					<p className='text-sm text-gray-500'>{article.user.name}</p>
-					<p>{article.likedCount}</p>
+					<div className='flex gap-4 items-center'>
+						<p className='text-sm text-gray-500'>{article.user.name}</p>
+						<p className='text-sm text-gray-500 flex gap-0.5 items-center'>
+							<Heart size={16} />
+							{article.likedCount}
+						</p>
+					</div>
 				</div>
 			))}
 		</div>
