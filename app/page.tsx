@@ -39,7 +39,7 @@ const homeStyle = tv({
 	variants: {
 		filter: {
 			zenn: {
-				content: 'grid-cols-1 md:grid-cols-3',
+				content: 'grid-cols-1 md:grid-cols-3 md:w-10/12 lg:w-11/12',
 			},
 			qiita: {
 				content: 'grid-cols-1 lg:w-4/5 mx-auto',
@@ -72,13 +72,9 @@ export default function Home() {
 	const { filter } = useFilter()
 	const { container, content } = homeStyle({
 		filter:
-			filter === 'zenn'
-				? 'zenn'
-				: filter === 'qiita'
-					? 'qiita'
-					: filter === 'hatena'
-						? 'hatena'
-						: 'default',
+			filter === 'zenn' || filter === 'qiita' || filter === 'hatena'
+				? filter
+				: 'default',
 	})
 
 	const contentComponent = useMemo(() => {
