@@ -1,35 +1,11 @@
 'use client'
 
-import Spinner from '@/app/components/elements/Spinner/Spinner'
-import dynamic from 'next/dynamic'
 import Sidebar from '@/app/components/layouts/Sidebar/Sidebar'
 import { useFilter } from '@/app/features/filter/components/Filter'
-import { useMemo } from 'react'
 import { tv } from 'tailwind-variants'
-
-const DynamicArticle = dynamic(
-	() => import('@/app/features/zenn/components/Article'),
-	{
-		loading: () => <Spinner />,
-		ssr: false,
-	},
-)
-
-const DynamicQiitaArticle = dynamic(
-	() => import('@/app/features/qiita/components/QiitaArticle'),
-	{
-		loading: () => <Spinner />,
-		ssr: false,
-	},
-)
-
-const DynamicHatenaArticle = dynamic(
-	() => import('@/app/features/hatena/components/HatenaArticle'),
-	{
-		loading: () => <Spinner />,
-		ssr: false,
-	},
-)
+import Article from '@/app/features/zenn/components/Article'
+import QiitaArticle from '@/app/features/qiita/components/QiitaArticle'
+import HatenaArticle from '@/app/features/hatena/components/HatenaArticle'
 
 const homeStyle = tv({
 	slots: {
@@ -77,37 +53,28 @@ export default function Home() {
 				: 'default',
 	})
 
-	const contentComponent = useMemo(() => {
-		switch (filter) {
-			case 'zenn':
-				return (
-					<>
-						<ZennTechTrend />
-						<ZennIdeaTrend />
-						<ZennBooksTrend />
-					</>
-				)
-			case 'qiita':
-				return <QiitaTrend />
-			case 'hatena':
-				return <HatenaTrend />
-			default:
-				return (
-					<>
-						<ZennTechTrend />
-						<ZennIdeaTrend />
-						<ZennBooksTrend />
-						<QiitaTrend />
-						<HatenaTrend />
-					</>
-				)
-		}
-	}, [filter])
-
 	return (
 		<div className={container()}>
 			<Sidebar />
-			<div className={content()}>{contentComponent}</div>
+			<div className={content()}>
+				{filter === 'zenn' || filter === 'all' ? (
+					<>
+						<ZennTechTrend />
+						<ZennIdeaTrend />
+						<ZennBooksTrend />
+					</>
+				) : null}
+				{filter === 'qiita' || filter === 'all' ? (
+					<>
+						<QiitaTrend />
+					</>
+				) : null}
+				{filter === 'hatena' || filter === 'all' ? (
+					<>
+						<HatenaTrend />
+					</>
+				) : null}
+			</div>
 		</div>
 	)
 }
@@ -120,7 +87,7 @@ const ZennTechTrend = () => {
 				<h2 className={title()}>Zenn Tech Trend</h2>
 			</div>
 			<div className={content()}>
-				<DynamicArticle apiUrl='https://zenn-api.vercel.app/api/trendTech' />
+				<Article apiUrl='https://zenn-api.vercel.app/api/trendTech' />
 			</div>
 		</div>
 	)
@@ -134,7 +101,7 @@ const ZennIdeaTrend = () => {
 				<h2 className={title()}>Zenn Ideas Trend</h2>
 			</div>
 			<div className={content()}>
-				<DynamicArticle apiUrl='https://zenn-api.vercel.app/api/trendIdea' />
+				<Article apiUrl='https://zenn-api.vercel.app/api/trendIdea' />
 			</div>
 		</div>
 	)
@@ -148,7 +115,7 @@ const ZennBooksTrend = () => {
 				<h2 className={title()}>Zenn Books Trend</h2>
 			</div>
 			<div className={content()}>
-				<DynamicArticle apiUrl='https://zenn-api.vercel.app/api/trendBook' />
+				<Article apiUrl='https://zenn-api.vercel.app/api/trendBook' />
 			</div>
 		</div>
 	)
@@ -162,7 +129,7 @@ const QiitaTrend = () => {
 				<h2 className={title()}>Qiita Trend</h2>
 			</div>
 			<div className={content()}>
-				<DynamicQiitaArticle />
+				<QiitaArticle />
 			</div>
 		</div>
 	)
@@ -176,7 +143,7 @@ const HatenaTrend = () => {
 				<h2 className={title()}>Hatena Bookmark IT</h2>
 			</div>
 			<div className={content()}>
-				<DynamicHatenaArticle />
+				<HatenaArticle />
 			</div>
 		</div>
 	)

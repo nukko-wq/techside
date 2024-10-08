@@ -1,5 +1,6 @@
 'use client'
 import { useState, useEffect } from 'react'
+import Spinner from '@/app/components/elements/Spinner/Spinner'
 
 interface Article {
 	title: string
@@ -11,7 +12,7 @@ interface Article {
 const QiitaArticle = () => {
 	const [articles, setArticles] = useState<Article[]>([])
 	const [isLoading, setIsLoading] = useState(true)
-	const [error, setError] = useState<Error | null>(null)
+	const [error, setError] = useState<string | null>(null)
 
 	useEffect(() => {
 		const fetchArticles = async () => {
@@ -23,7 +24,7 @@ const QiitaArticle = () => {
 				const data = await response.json()
 				setArticles(data)
 			} catch (err) {
-				setError(new Error('記事の取得に失敗しました'))
+				setError('記事の取得に失敗しました')
 				console.error(err)
 			} finally {
 				setIsLoading(false)
@@ -32,11 +33,10 @@ const QiitaArticle = () => {
 
 		fetchArticles()
 	}, [])
-	/*
-	if (isLoading) return <div>読み込み中...</div>
-	*/
 
-	if (error) return <div>エラーが発生しました: {error.message}</div>
+	if (isLoading) return <Spinner />
+
+	if (error) return <div className='text-red-500'>{error}</div>
 
 	return (
 		<div>
