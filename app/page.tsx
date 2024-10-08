@@ -4,6 +4,7 @@ import Spinner from '@/app/components/elements/Spinner/Spinner'
 import dynamic from 'next/dynamic'
 import Sidebar from '@/app/components/layouts/Sidebar/Sidebar'
 import { useFilter } from '@/app/features/filter/components/Filter'
+import { useMemo } from 'react'
 
 const DynamicArticle = dynamic(
 	() => import('@/app/features/zenn/components/Article'),
@@ -32,7 +33,7 @@ const DynamicHatenaArticle = dynamic(
 export default function Home() {
 	const { filter } = useFilter()
 
-	const renderContent = () => {
+	const content = useMemo(() => {
 		switch (filter) {
 			case 'zenn':
 				return (
@@ -57,12 +58,13 @@ export default function Home() {
 					</>
 				)
 		}
-	}
+	}, [filter])
+
 	return (
 		<div className='flex flex-row'>
 			<Sidebar />
 			<div className='w-full md:w-10/12 lg:w-11/12 px-4 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 py-4 md:overflow-hidden'>
-				{renderContent()}
+				{content}
 			</div>
 		</div>
 	)
