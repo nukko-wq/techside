@@ -5,6 +5,7 @@ import {
 	useFilter,
 } from '@/app/features/filter/components/Filter'
 import { tv } from 'tailwind-variants'
+import { FILTER_OPTIONS } from '@/app/features/filter/constants/filterOptions'
 
 const mobileMenuStyle = tv({
 	slots: {
@@ -42,8 +43,6 @@ const MobileMenu = () => {
 		setIsOpen(!isOpen)
 	}
 
-	const filterOptions: FilterType[] = ['all', 'zenn', 'qiita', 'hatena']
-
 	const { setFilter } = useFilter()
 
 	const handleFilterClick = (item: FilterType) => {
@@ -57,7 +56,7 @@ const MobileMenu = () => {
 				<nav className={nav()}>
 					<div className='p-[25px]'>
 						<ul>
-							{filterOptions.map((item) => (
+							{FILTER_OPTIONS.map((item) => (
 								<li key={item} className='border-b border-gray-300 relative'>
 									<button
 										type='button'
