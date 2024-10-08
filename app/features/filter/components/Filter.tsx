@@ -3,7 +3,7 @@
 // biome-ignore lint/style/useImportType: <explanation>
 import React, { createContext, useState, useContext } from 'react'
 
-type FilterType = 'all' | 'zenn' | 'qiita' | 'hatena'
+export type FilterType = 'all' | 'zenn' | 'qiita' | 'hatena'
 
 type FilterContextType = {
 	filter: FilterType
