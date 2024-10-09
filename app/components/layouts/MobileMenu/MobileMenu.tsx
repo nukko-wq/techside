@@ -47,6 +47,7 @@ const MobileMenu = () => {
 
 	const handleFilterClick = (item: FilterType) => {
 		setFilter(item)
+		window.scrollTo({ top: 0, behavior: 'smooth' })
 		setIsOpen(false)
 	}
 
