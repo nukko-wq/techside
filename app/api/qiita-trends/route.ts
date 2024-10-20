@@ -11,7 +11,10 @@ export async function GET() {
 			author: item.author,
 			pubDate: item.pubDate,
 		}))
-		return NextResponse.json(articles)
+
+		const response = NextResponse.json(articles)
+		response.headers.set('Cache-Control', 'max-age=0')
+		return response
 	} catch (error) {
 		console.error('RSSフィードの取得に失敗しました', error)
 		return NextResponse.json(
