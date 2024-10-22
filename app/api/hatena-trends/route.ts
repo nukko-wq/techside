@@ -22,7 +22,9 @@ export async function GET() {
 				? Number.parseInt(item['hatena:bookmarkcount'])
 				: 0,
 		}))
-		return NextResponse.json(articles)
+		const response = NextResponse.json(articles)
+		response.headers.set('Cache-Control', 'no-store, max-age=0')
+		return response
 	} catch (error) {
 		console.error('RSSフィードの取得に失敗しました', error)
 		return NextResponse.json(

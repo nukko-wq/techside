@@ -13,7 +13,7 @@ export async function GET() {
 		}))
 
 		const response = NextResponse.json(articles)
-		response.headers.set('Cache-Control', 'max-age=0')
+		response.headers.set('Cache-Control', 'no-store, max-age=0')
 		return response
 	} catch (error) {
 		console.error('RSSフィードの取得に失敗しました', error)
