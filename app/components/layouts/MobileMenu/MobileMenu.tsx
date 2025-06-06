@@ -89,7 +89,7 @@ const MobileMenu = () => {
 					<span
 						className={toggleSpan({
 							class: isOpen
-								? 'translate-y-[-10px] rotate-[315deg] bg-white bottom-[4px]'
+								? 'translate-y-[-10px] rotate-315 bg-white bottom-[4px]'
 								: 'bottom-[4px] bg-gray-600',
 						})}
 					/>

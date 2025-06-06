@@ -36,11 +36,11 @@ const homeStyle = tv({
 
 const trendStyle = tv({
 	slots: {
-		container: 'flex flex-col rounded-md md:h-[calc(100vh-theme(spacing.28))]',
+		container: 'flex flex-col rounded-md md:h-[calc(100vh-(--spacing(28)))]',
 		header: 'flex justify-center bg-slate-600 text-white rounded-t-md py-1',
 		title: 'text-xl lg:text-2xl font-bold',
 		content:
-			'p-4 bg-slate-100 rounded-b-md md:overflow-y-auto md:overflow-x-hidden flex flex-grow flex-col',
+			'p-4 bg-slate-100 rounded-b-md md:overflow-y-auto md:overflow-x-hidden flex grow flex-col',
 	},
 })
 

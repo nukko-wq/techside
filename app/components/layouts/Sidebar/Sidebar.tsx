@@ -12,7 +12,7 @@ const Sidebar = () => {
 							key={item}
 							type='button'
 							onClick={() => setFilter(item)}
-							className={`flex text-white rounded-md px-4 py-2 ${filter === item ? 'bg-slate-700' : ''}`}
+							className={`flex cursor-pointer text-white rounded-md px-4 py-2 ${filter === item ? 'bg-slate-700' : ''}`}
 						>
 							<h2 className='text-slate-50'>
 								{item.charAt(0).toUpperCase() + item.slice(1)}
