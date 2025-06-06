@@ -38,7 +38,7 @@ export default function RootLayout({
 				<FilterProvider>
 					<div className='flex flex-col min-h-screen bg-gray-50'>
 						<Header />
-						<main className='flex-grow'>{children}</main>
+						<main className='grow'>{children}</main>
 						<Footer />
 					</div>
 				</FilterProvider>
