@@ -17,7 +17,12 @@ const QiitaArticle = () => {
 	useEffect(() => {
 		const fetchArticles = async () => {
 			try {
-				const response = await fetch('/api/qiita-trends')
+				const response = await fetch('/api/qiita-trends', {
+					cache: 'no-store',
+					headers: {
+						'Cache-Control': 'no-cache',
+					},
+				})
 				if (!response.ok) {
 					throw new Error('APIリクエストに失敗しました')
 				}
