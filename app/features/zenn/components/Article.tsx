@@ -6,6 +6,27 @@ import { Heart } from 'lucide-react'
 
 // Zenn Tech Trendの記事を取得して表示する
 
+// 相対時間をフォーマットする関数
+const formatDate = (dateString: string) => {
+	const publishedDate = new Date(dateString)
+	const now = new Date()
+	const diffInMs = now.getTime() - publishedDate.getTime()
+	const diffInHours = Math.floor(diffInMs / (1000 * 60 * 60))
+	const diffInDays = Math.floor(diffInMs / (1000 * 60 * 60 * 24))
+	const diffInMinutes = Math.floor(diffInMs / (1000 * 60))
+
+	if (diffInDays >= 1) {
+		return `${diffInDays}日前`
+	}
+	if (diffInHours >= 1) {
+		return `約${diffInHours}時間前`
+	}
+	if (diffInMinutes >= 1) {
+		return `${diffInMinutes}分前`
+	}
+	return 'たった今'
+}
+
 interface ArticleData {
 	id: number
 	title: string
@@ -14,6 +35,7 @@ interface ArticleData {
 	user: { name: string }
 	path: string
 	likedCount: number
+	publishedAt: string
 }
 
 interface ArticleProps {
@@ -57,7 +79,7 @@ const Article = ({ apiUrl }: ArticleProps) => {
 			{articles.map((article) => (
 				<div
 					key={article.id}
-					className='pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
+					className='flex flex-col gap-2 pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
 				>
 					<a
 						href={`https://zenn.dev/${article.path}`}
@@ -65,15 +87,20 @@ const Article = ({ apiUrl }: ArticleProps) => {
 						rel='noopener noreferrer'
 						className='text-blue-500 text-lg hover:underline'
 					>
-						<span className='mr-2'>{article.emoji}</span>
+						{article.emoji && <span className='mr-2'>{article.emoji}</span>}
 						{article.title}
 					</a>
-					<div className='flex gap-4 items-center'>
+					<div className='flex flex-col gap-2'>
 						<p className='text-sm text-gray-500'>{article.user.name}</p>
-						<p className='text-sm text-gray-500 flex gap-0.5 items-center'>
-							<Heart size={16} />
-							{article.likedCount}
-						</p>
+						<div className='flex gap-2 items-center'>
+							<p className='text-sm text-gray-500'>
+								{formatDate(article.publishedAt)}
+							</p>
+							<p className='text-sm text-gray-500 flex gap-0.5 items-center'>
+								<Heart size={16} />
+								{article.likedCount}
+							</p>
+						</div>
 					</div>
 				</div>
 			))}

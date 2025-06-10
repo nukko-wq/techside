@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ja-JP" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:qiita.com,2005:/popular-items/feed</id>
+  <link rel="alternate" type="text/html" href="https://qiita.com/popular-items"/>
+  <link rel="self" type="application/atom+xml" href="https://qiita.com/popular-items/feed"/>
+  <title>Qiita - 人気の記事</title>
+  <updated>2025-06-10T17:00:00+09:00</updated>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036879</id>
+    <published>2025-06-08T18:33:32+09:00</published>
+    <updated>2025-06-10T14:42:08+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/fujifuji1414/items/6daa393a86582d81f0b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>ソケット通信を一緒に理解しよう！！</title>
+    <content type="html">はじめに
+「ソケット通信ってなんやねん」、そう思った経験はみなさんもあると思います。
+私もそのうちの一人です 👍
+個人的に初学者の方がつまづくポイントが多い概念なのかなと感じていました。
+本記事では…</content>
+    <author>
+      <name>fujifuji1414</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036839</id>
+    <published>2025-06-08T17:05:00+09:00</published>
+    <updated>2025-06-08T17:59:36+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/Sicut_study/items/afd66cac978f4b0a6e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル【図解解説】</title>
+    <content type="html">
+はじめに
+こんにちは、Watanabe jinです。
+ReactがAIも相まって選択されるケースが増えて学びたいと思っている人も多いかと思います。
+私も過去にたくさんのReact教材をやりましたが…</content>
+    <author>
+      <name>Sicut_study</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036460</id>
+    <published>2025-06-07T19:06:34+09:00</published>
+    <updated>2025-06-07T19:06:34+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/tks_00/items/113940e80947451f69f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>GitHubのプロフィールがめちゃめちゃかっこよくする方法</title>
+    <content type="html">みなさん、GitHubのプロフィールはどんなプロフィールですか？
+私は昨日までデフォルトの画面でした。
+いつか綺麗に整えたいな〜と思いつつ、後回しにするのが大得意なので今に至ります。
+さて、まずはビ…</content>
+    <author>
+      <name>tks_00</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036982</id>
+    <published>2025-06-08T22:27:41+09:00</published>
+    <updated>2025-06-08T22:27:41+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/Keita-0025/items/f24997fe0bbcb3a67a6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【超有料級】非同期処理がスッと理解できる魔法のレッスン。今日からあなたも非同期の魔法使い！</title>
+    <content type="html">はじめに
+今回の記事では、多くの人が一度はつまずいたり、挫折した経験のある「非同期処理」について解説します。
+「非同期処理」と聞いて、「うわ、無理…」「なんか苦手…」と感じる人も少なくないのではない…</content>
+    <author>
+      <name>Keita-0025</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037277</id>
+    <published>2025-06-09T16:37:00+09:00</published>
+    <updated>2025-06-09T16:37:00+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/chomado/items/acaf251a2f6bf984a3df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]</title>
+    <content type="html">皆さまこんにちは、ちょまどです。
+GitHub Copilot の Agent モードを使った、AI coding 入門のチュートリアルを書いていこうと思います。
+その連載名は「 5 分で試す！意識…</content>
+    <author>
+      <name>chomado</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036579</id>
+    <published>2025-06-08T00:03:29+09:00</published>
+    <updated>2025-06-08T00:03:29+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/oichan00/items/004612d2f73dcc48c771?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>どんなインプットも読みやすい左サイドバー目次付きの議事録にするプロンプト文</title>
+    <content type="html">概要
+最近の生成AIは、扱える文字数も増えて書き漏れも減りました。しかし、「議事録作って」という指示だけだと毎回違う書式で作られてしまいます。業務で多くの議事録を読むときは 「毎回同じ書式で出力する」 ということが重要だと思います。素早い情報把握には統一された書式が必須です…</content>
+    <author>
+      <name>oichan00</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036849</id>
+    <published>2025-06-08T17:19:00+09:00</published>
+    <updated>2025-06-08T17:19:00+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/nkserveren26/items/b2bfab2935b2337b429a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【第1回】ミニPCにKubernetes環境を構築するまで ～概要編～</title>
+    <content type="html">1. はじめに
+この記事では、ミニPC1台を使って Kubernetes 環境を構築するまでの流れを、数回に分けてまとめていきます。
+第1回となる今回は、Kubernetes とは何か、なぜ使われる…</content>
+    <author>
+      <name>nkserveren26</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036572</id>
+    <published>2025-06-07T23:42:04+09:00</published>
+    <updated>2025-06-07T23:42:04+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/hosomatu/items/acdc7b873c7d1589436e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【ECS入門】ECSの専門用語をAWS初心者にもわかりやすく表現してみた</title>
+    <content type="html">記事を書いたきっかけ
+最近人に教える機会が増えてきたのでその時にぱっと渡せるように記事にすることとしました。
+対象読者
+
+AWSを触ったことがある(VPC、EC2と聞いてピンとくる)
+コンテナ技術に触…</content>
+    <author>
+      <name>hosomatu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2035108</id>
+    <published>2025-06-09T16:45:04+09:00</published>
+    <updated>2025-06-09T16:45:05+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/t-kataoka/items/b948989c8e8f686a2bea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>CICDパイプラインとは？</title>
+    <content type="html">はじめに
+近年、ソフトウェア開発の現場では、より迅速かつ安定したリリースを実現するためにCI/CDの導入が進んでいます。
+この記事では、CI/CDの基本的な概念や仕組みについて簡潔解説します。
+これ…</content>
+    <author>
+      <name>t-kataoka</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2035558</id>
+    <published>2025-06-09T09:42:37+09:00</published>
+    <updated>2025-06-09T09:42:38+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/hayakariy/items/0a02567694da13f0adc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>CSS Grid入門：grid-template-columns と grid-template-rows を使った実践で活きるGridの基本レイアウト</title>
+    <content type="html">はじめに
+こんにちは、デザイナーの早狩です。
+CSS Gridは、2次元レイアウト（縦と横の両方向）を効率的に作成できるCSSの機能です。これまでFlexboxでは難しかった「行」と「列」の2次元配…</content>
+    <author>
+      <name>hayakariy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037537</id>
+    <published>2025-06-10T08:15:10+09:00</published>
+    <updated>2025-06-10T08:15:10+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/moritalous/items/b0ec9548b8104f1bd375?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>container-useやってみた</title>
+    <content type="html">ロゴが可愛いと評判のcontainer-useをやってみました。
+https://x.com/solomonstre/status/1931216224047997096
+GitHubリポジトリはこ…</content>
+    <author>
+      <name>moritalous</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2035548</id>
+    <published>2025-06-10T07:55:35+09:00</published>
+    <updated>2025-06-10T07:55:36+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/Takashi_Masumori/items/7e78b0df2b870dd5527f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Microsoft Build の Copilot Studio のナレッジ関係アップデート①</title>
+    <content type="html">はじめに
+2025 年 5 月に開催された Microsoft Build で、Copilot Studio 関係の多くのアップデートが発表されました。
+今回は、そのうちの一つの以下の機能について説…</content>
+    <author>
+      <name>Takashi_Masumori</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037566</id>
+    <published>2025-06-10T10:13:26+09:00</published>
+    <updated>2025-06-10T10:13:26+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/mk4f/items/778f0bb1290c705a2a5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>マテリアルカラー、やめました。</title>
+    <content type="html">私たちはKotlinMultiplatformでアプリを開発しています。
+クロスプラットフォームでの設計と実装を進める中で、UI設計において避けては通れないのが「デザインシステム」の選定です。
+その…</content>
+    <author>
+      <name>mk4f</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2035649</id>
+    <published>2025-06-10T09:33:14+09:00</published>
+    <updated>2025-06-10T12:10:22+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/yseki1985/items/931d498bcc4734a6b5c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>New Relicで周期性を考慮したアラートが可能に！</title>
+    <content type="html">New Relicのアラート機能ではAlert conditionを作成して、任意のテレメトリーデータで閾値を基準にアラートをあげることが可能です。この閾値には固定値を用いるStaticと、テレメト…</content>
+    <author>
+      <name>yseki1985</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037723</id>
+    <published>2025-06-10T16:10:26+09:00</published>
+    <updated>2025-06-10T16:10:26+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/hirosaku21/items/39193b0169ee912354fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>AWS ECS Execを有効化して、Fargateに接続する手順</title>
+    <content type="html">ECS(Fargate)を使用していると、コンテナの中に入って操作をしたくなることがあると思いますが、昔はコンテナに入ること自体ができなかったそうです。
+そこでECS Execという機能が登場し、コ…</content>
+    <author>
+      <name>hirosaku21</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037047</id>
+    <published>2025-06-09T01:36:40+09:00</published>
+    <updated>2025-06-09T01:40:35+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/rtkjm22/items/9e9a02f03ece08039e8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【TypeScript】「ホモモーフィック」なマップ型とは何か？</title>
+    <content type="html">はじめに
+TypeScript（以下TS）の型の中で、あまり知られていない「ホモモーフィック（homomorphic）」なマップ型という概念があります。
+この記事では
+
+ホモモーフィックなマップ型とは?…</content>
+    <author>
+      <name>rtkjm22</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037320</id>
+    <published>2025-06-09T17:46:14+09:00</published>
+    <updated>2025-06-09T17:46:14+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/sWdHsfI_DY/items/74fb0ad2d97d78d9818f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>ほぼ未経験から始めた新卒エンジニア</title>
+    <content type="html">初めまして！
+新卒エンジニアSin Syoです！
+ざっくりとした自己紹介
+年齢：２２歳
+大学の専攻：情報経営(特にプログラミングに深入りせず)
+エンジニアになったきっかけ:生成AIに可能性を感じたため…</content>
+    <author>
+      <name>sWdHsfI_DY</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037025</id>
+    <published>2025-06-09T00:04:20+09:00</published>
+    <updated>2025-06-09T00:22:32+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/ikema_sec/items/557d25bf05562adcd9a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>「7日間でハッキングをはじめる本」をLinux初心者がやってみた</title>
+    <content type="html">はじめに
+筆者
+IT系専門学生2年。授業でLinuxを触り始めて1か月(catやlsがわかる程度)
+セキュリティの基礎知識はあるが、ハンズオンは初めて
+本書を選んだきっかけ
+情報処理安全確保支援士の…</content>
+    <author>
+      <name>ikema_sec</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036649</id>
+    <published>2025-06-08T08:33:03+09:00</published>
+    <updated>2025-06-10T16:25:19+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/front_to_dev/items/528f77d91e6e98f13401?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>エンジニア界隈で有名な晒し垢が多数通報を受けて実際にアカウントをロックされるまで</title>
+    <content type="html">この記事は？
+xにはエンジニアのスクールや講師のポストを晒して、
+貶めることによって楽しむ界隈が存在しており、
+まだコンテンツ内容の至らない点の批判等であれば建設的になる可能性もある一方、
+明確な悪…</content>
+    <author>
+      <name>front_to_dev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2036906</id>
+    <published>2025-06-08T19:42:08+09:00</published>
+    <updated>2025-06-08T19:42:08+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/Tomoboo_319/items/4484c471744920b26252?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Reactを学習して、1ヶ月半で名刺アプリを作った話。</title>
+    <content type="html">自己紹介
+はじめまして。ともぼーです！
+私は組み込みエンジニア4年目で、Web開発経験に関しては仕事で少しHTML/CSS, JavaScriptを使用して画面を作った程度です。
+プログラミングの基…</content>
+    <author>
+      <name>Tomoboo_319</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2026121</id>
+    <published>2025-06-09T12:58:07+09:00</published>
+    <updated>2025-06-09T12:58:07+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/SSS-TakahashiKatsuya/items/44de9905cfb7f7876a81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Raspberry Pi AI Camera を使ってジムでの体調不良者を検出するWebアプリを作る</title>
+    <content type="html">こんにちは。
+ソニーセミコンダクタソリューションズの高橋です。
+  
+はじめに
+ジム、流行っていますね 
+マッチョになることは素晴らしいですが、不慮の事故や体調不良には気をつけていきたいものです。
+本記事で…</content>
+    <author>
+      <name>SSS-TakahashiKatsuya</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2024998</id>
+    <published>2025-06-09T10:02:16+09:00</published>
+    <updated>2025-06-09T10:02:17+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/shunnosuke_goan/items/980d47dc996916a5a648?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Expoのネイティブコード管理をBare WorkflowからContinuous Native Generation (CNG)に移管した話</title>
+    <content type="html">
+はじめに
+こんにちは！menu事業部フロントエンドエンジニアの午菴です。
+私たちのチームでは、多くのアプリケーション開発にReact Native（Expo）を採用しています。
+ExpoはReac…</content>
+    <author>
+      <name>shunnosuke_goan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037313</id>
+    <published>2025-06-09T18:02:09+09:00</published>
+    <updated>2025-06-09T18:02:09+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/gonzaemon/items/8d8ae8631b9c86866b5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【図解】Reactとコンポーネント設計について</title>
+    <content type="html">はじめに
+　この記事では、Reactの基本的な概念と特徴、そして最も重要な「コンポーネント」という考え方について解説します。特にコンポーネント設計については視覚的な図解を用いて、抽象的な概念を具体的…</content>
+    <author>
+      <name>gonzaemon</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037286</id>
+    <published>2025-06-09T16:58:43+09:00</published>
+    <updated>2025-06-09T16:58:43+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/ryota586/items/c7c0b18a660a4756c01d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>AWS CLF 概要まとめ</title>
+    <content type="html">はじめに
+未経験で中途入社した私が、試験勉強をするにあたり調べた簡単な概要です。
+参考にはならないかと思いますが以下にまとめます。
+AWS CLF(Certified Cloud Practitio…</content>
+    <author>
+      <name>ryota586</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2029663</id>
+    <published>2025-06-09T16:38:28+09:00</published>
+    <updated>2025-06-09T16:38:28+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/08mi1na6ho/items/31d746e978ce14d0dd93?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>dependenciesの定義場所で変わるビルドの世界（AGP vs KMP）</title>
+    <content type="html">Kotlin Multiplatform（KMP）プロジェクトにおいて、Gradleのdependencies定義に混乱したことはありませんか？
+特に、「トップレベルのdependenciesとso…</content>
+    <author>
+      <name>08mi1na6ho</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037514</id>
+    <published>2025-06-10T06:23:06+09:00</published>
+    <updated>2025-06-10T06:23:06+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/licux/items/46b9a5a4fe462bab5887?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Amazon Q CLIでゲームを作ってみた！</title>
+    <content type="html">Amazon Q CLIでゲームを作った記事です。以下のキャンペーンもあり、これまでQ CLIでコード生成をやったことがなかったのでチャレンジしました。
+https://aws.amazon.com…</content>
+    <author>
+      <name>licux</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037441</id>
+    <published>2025-06-09T23:31:50+09:00</published>
+    <updated>2025-06-09T23:35:42+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/ko1nksm/items/ce20e643bd83a72850b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>【朗報】macOS 15.4でsortコマンドのソート順がまともに修正されました！  〜 マーズとマーキュリーの間にジュピターが割り込んでいた理由</title>
+    <content type="html">はじめに
+以前の macOS は sort コマンドで日本語を含む Unicode 文字を正しくソートできませんでした。また grep コマンドでも正規表現の文字の範囲に正しくマッチできないという問…</content>
+    <author>
+      <name>ko1nksm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037377</id>
+    <published>2025-06-09T20:24:00+09:00</published>
+    <updated>2025-06-09T20:42:36+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/rana_kualu/items/fb6f5bc0ec34880fccec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>世界最大のハッカソンに参加して賞金100万ドルをゲットしよう！</title>
+    <content type="html">2025/07/01に世界最大という触れ込みのハッカソンが開催されます。
+主催はBolt.newで、AWS・reddit・dev.to・supabase・netlifyほか多くの企業が協賛しています。
+賞金がなかなかすごいことになっていて興味をそそられるところです…</content>
+    <author>
+      <name>rana_kualu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037314</id>
+    <published>2025-06-09T17:40:35+09:00</published>
+    <updated>2025-06-09T17:40:35+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/banechi/items/4aa0d5963e4d1d01f9dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Diver OSINT CTF 2025 初参加Writeup</title>
+    <content type="html">6月7日12時～8日12時の24時間で開催されたDiver OSINT CTF 2025に参加してきました！！初参加でしたがそこそこ健闘できたんじゃないかということで、解いている時に考えていたことや…</content>
+    <author>
+      <name>banechi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/2037481</id>
+    <published>2025-06-10T01:05:05+09:00</published>
+    <updated>2025-06-10T01:45:06+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/inada_riku/items/f6d9d83a47ef93ad38ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <title>Amazon Q CLI でゲームを作って特製 T シャツがほしかった</title>
+    <content type="html">はじめに
+みなさん、こんにちは。ソリューションアーキテクトのいなりくです。
+Amazon Q Developer CLI を使ってゲームを作るとなんと Amazon Q T シャツが貰えるキャンペー…</content>
+    <author>
+      <name>inada_riku</name>
+    </author>
+  </entry>
+</feed>

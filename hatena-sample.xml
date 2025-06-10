@@ -1,0 +1,837 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:hatena="http://www.hatena.ne.jp/info/xmlns#" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+<channel rdf:about="https://b.hatena.ne.jp/hotentry/it">
+<title>はてなブックマーク - 人気エントリー - テクノロジー</title>
+<link>https://b.hatena.ne.jp/hotentry/it</link>
+<description>最近の人気エントリー</description>
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="https://www.itmedia.co.jp/news/articles/2506/10/news062.html"/>
+<rdf:li rdf:resource="https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"/>
+<rdf:li rdf:resource="https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note"/>
+<rdf:li rdf:resource="https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446"/>
+<rdf:li rdf:resource="https://gigazine.net/news/20250610-google-phones/"/>
+<rdf:li rdf:resource="https://www.ketancho.net/entry/2025/03/19/080000"/>
+<rdf:li rdf:resource="https://zenn.dev/kazuph/articles/beb87d102bd4f5"/>
+<rdf:li rdf:resource="https://github.com/apple/container"/>
+<rdf:li rdf:resource="https://www.itmedia.co.jp/news/articles/2506/10/news076.html"/>
+<rdf:li rdf:resource="https://www.itmedia.co.jp/news/articles/2506/10/news119.html"/>
+<rdf:li rdf:resource="https://forest.watch.impress.co.jp/docs/news/2020947.html"/>
+<rdf:li rdf:resource="https://zenn.dev/k2wanko/articles/7b12cc87fabc18"/>
+<rdf:li rdf:resource="https://togetter.com/li/2561616"/>
+<rdf:li rdf:resource="https://wirelesswire.jp/2025/06/88810/"/>
+<rdf:li rdf:resource="https://www.itmedia.co.jp/news/articles/2506/10/news099.html"/>
+<rdf:li rdf:resource="https://forest.watch.impress.co.jp/docs/news/2021121.html"/>
+<rdf:li rdf:resource="https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra"/>
+<rdf:li rdf:resource="https://gihyo.jp/article/2025/06/apple-container"/>
+<rdf:li rdf:resource="https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945"/>
+<rdf:li rdf:resource="https://pc.watch.impress.co.jp/docs/news/2021444.html"/>
+<rdf:li rdf:resource="https://zenn.dev/pepabo/articles/99042d27d6cf3b"/>
+<rdf:li rdf:resource="https://togetter.com/li/2561659"/>
+<rdf:li rdf:resource="https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html"/>
+<rdf:li rdf:resource="https://nealle-dev.hatenablog.com/entry/2025/06/10/121331"/>
+<rdf:li rdf:resource="https://www.tokyo-sports.co.jp/articles/-/347804"/>
+<rdf:li rdf:resource="https://future-architect.github.io/articles/20250610a/"/>
+<rdf:li rdf:resource="https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"/>
+<rdf:li rdf:resource="https://www.itmedia.co.jp/news/articles/2506/10/news072.html"/>
+<rdf:li rdf:resource="https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html"/>
+<rdf:li rdf:resource="https://ascii.jp/elem/000/004/280/4280488/"/>
+</rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://www.itmedia.co.jp/news/articles/2506/10/news062.html">
+<title>「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに</title>
+<link>https://www.itmedia.co.jp/news/articles/2506/10/news062.html</link>
+<description>同社のAI「Apple Intelligence」を拡充。電話、メッセージ、FaceTimeに「ライブ翻訳」を実装、テキストと音声をリアルタイムで翻訳。メッセージを直接相手の言語に変換して送信することも可能だ。生成AIを使った絵文字「Genmoji」を合体させて新しい絵文字を作る「Mix emoji」も利用できる。 カメラや画像などを処理でき...</description>
+<dc:date>2025-06-09T19:54:50Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>apple</dc:subject>
+<dc:subject>iOS</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>iPhone</dc:subject>
+<dc:subject>ui</dc:subject>
+<dc:subject>デザイン</dc:subject>
+<dc:subject>mac</dc:subject>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/iOS"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/iPhone"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/ui"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/mac"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/design"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.itmedia.co.jp/news/articles/2506/10/news062.html" title="「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fnews062.html" alt="" /> <a href="https://www.itmedia.co.jp/news/articles/2506/10/news062.html">「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに</a></cite><p><a href="https://www.itmedia.co.jp/news/articles/2506/10/news062.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/ef99e4f5d0614fe26aad3cb434d8658a14826bb1/height=90;version=1;width=120/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fcover_news062.jpg" alt="「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに" title="「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに" class="entry-image" /></a></p><p>同社のAI「Apple Intelligence」を拡充。電話、メッセージ、FaceTimeに「ライブ翻訳」を実装、テキストと音声をリアルタイムで翻訳。メッセージを直接相手の言語に変換して送信することも可能だ。生成AIを使った絵文字「Genmoji」を合体させて新しい絵文字を作る「Mix emoji」も利用できる。 カメラや画像などを処理でき...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news062.html"><img src="https://b.hatena.ne.jp/entry/image/https://www.itmedia.co.jp/news/articles/2506/10/news062.html" alt="はてなブックマーク - 「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに" title="はてなブックマーク - 「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news062.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.itmedia.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://image.itmedia.co.jp/news/articles/2506/10/cover_news062.jpg</hatena:imageurl>
+<hatena:bookmarkcount>396</hatena:bookmarkcount>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news062.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/">
+<title>Apple、楽しくて優雅な新しいソフトウェアデザインを発表</title>
+<link>https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/</link>
+<description>プラットフォーム全体にわたるユニバーサルなデザインが、Appleのソフトウェアの親しみやすさはそのままに、コンテンツへの注目を高め、新たなレベルの活力をもたらします 新しいデザインは、iOS 26、iPadOS 26、macOS Tahoe 26、watchOS 26、tvOS 26にわたって採用され、各プラットフォームの独自の特性を保ちながらも...</description>
+<dc:date>2025-06-09T21:30:31Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>apple</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>UI</dc:subject>
+<dc:subject>デザイン</dc:subject>
+<dc:subject>design</dc:subject>
+<dc:subject>ios</dc:subject>
+<dc:subject>software</dc:subject>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/UI"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/design"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/ios"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/software"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/mac"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/" title="Apple、楽しくて優雅な新しいソフトウェアデザインを発表"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.apple.com%2Fjp%2Fnewsroom%2F2025%2F06%2Fapple-introduces-a-delightful-and-elegant-new-software-design%2F" alt="" /> <a href="https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/">Apple、楽しくて優雅な新しいソフトウェアデザインを発表</a></cite><p><a href="https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/3278fa8e829554befa8695206c092bd0cb280dcc/height=90;version=1;width=120/https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F06%2Fapple-introduces-a-delightful-and-elegant-new-software-design%2Ftile%2FApple-WWDC25-Liquid-Glass-hero-250609-lp.jpg.og.jpg%3F202506091959" alt="Apple、楽しくて優雅な新しいソフトウェアデザインを発表" title="Apple、楽しくて優雅な新しいソフトウェアデザインを発表" class="entry-image" /></a></p><p>プラットフォーム全体にわたるユニバーサルなデザインが、Appleのソフトウェアの親しみやすさはそのままに、コンテンツへの注目を高め、新たなレベルの活力をもたらします 新しいデザインは、iOS 26、iPadOS 26、macOS Tahoe 26、watchOS 26、tvOS 26にわたって採用され、各プラットフォームの独自の特性を保ちながらも...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"><img src="https://b.hatena.ne.jp/entry/image/https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/" alt="はてなブックマーク - Apple、楽しくて優雅な新しいソフトウェアデザインを発表" title="はてなブックマーク - Apple、楽しくて優雅な新しいソフトウェアデザインを発表" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkcount>146</hatena:bookmarkcount>
+<hatena:imageurl>https://www.apple.com/newsroom/images/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/tile/Apple-WWDC25-Liquid-Glass-hero-250609-lp.jpg.og.jpg?202506091959</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.apple.com/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note">
+<title>n8nを使って面倒くさいリリースノートのチェックを自動化してみた</title>
+<link>https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note</link>
+<description>1. はじめに こんにちは。クラウドエースの荒木です。 皆さんは、クラウドサービスやツールの最新情報をどのようにキャッチアップされていますか？日々公開されるリリースノートを一つ一つ確認するのは、なかなか骨の折れる作業ではないでしょうか。 本記事では、情報収集のプロセスを効率化するため、n8n を活用して Go...</description>
+<dc:date>2025-06-09T05:09:57Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>n8n</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>LLM</dc:subject>
+<dc:subject>API</dc:subject>
+<dc:subject>開発</dc:subject>
+<dc:subject>docker</dc:subject>
+<dc:subject>ai</dc:subject>
+<dc:subject>Google</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/n8n"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/LLM"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/API"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E9%96%8B%E7%99%BA"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/docker"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/ai"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Google"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note" title="n8nを使って面倒くさいリリースノートのチェックを自動化してみた"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fcloud_ace%2Farticles%2Fn8n-google-cloud-release-note" alt="" /> <a href="https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note">n8nを使って面倒くさいリリースノートのチェックを自動化してみた</a></cite><p><a href="https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/365c93b6b621373140dac7924c9d95bfb539633a/height=90;version=1;width=120/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--oZ44THVQ--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3An8n%2525E3%252582%252592%2525E4%2525BD%2525BF%2525E3%252581%2525A3%2525E3%252581%2525A6%2525E9%25259D%2525A2%2525E5%252580%252592%2525E3%252581%25258F%2525E3%252581%252595%2525E3%252581%252584%2525E3%252583%2525AA%2525E3%252583%2525AA%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252583%25258E%2525E3%252583%2525BC%2525E3%252583%252588%2525E3%252581%2525AE%2525E3%252583%252581%2525E3%252582%2525A7%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252582%252592%2525E8%252587%2525AA%2525E5%25258B%252595%2525E5%25258C%252596%2525E3%252581%252597%2525E3%252581%2525A6%2525E3%252581%2525BF%2525E3%252581%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3A%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252582%2525A6%2525E3%252583%252589%2525E3%252582%2525A8%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E6%2525A0%2525AA%2525E5%2525BC%25258F%2525E4%2525BC%25259A%2525E7%2525A4%2525BE%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE2OGMwYmM4MTIuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png" alt="n8nを使って面倒くさいリリースノートのチェックを自動化してみた" title="n8nを使って面倒くさいリリースノートのチェックを自動化してみた" class="entry-image" /></a></p><p>1. はじめに こんにちは。クラウドエースの荒木です。 皆さんは、クラウドサービスやツールの最新情報をどのようにキャッチアップされていますか？日々公開されるリリースノートを一つ一つ確認するのは、なかなか骨の折れる作業ではないでしょうか。 本記事では、情報収集のプロセスを効率化するため、n8n を活用して Go...</p><p><a href="https://b.hatena.ne.jp/entry/s/zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note"><img src="https://b.hatena.ne.jp/entry/image/https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note" alt="はてなブックマーク - n8nを使って面倒くさいリリースノートのチェックを自動化してみた" title="はてなブックマーク - n8nを使って面倒くさいリリースノートのチェックを自動化してみた" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/zenn.dev/cloud_ace</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://res.cloudinary.com/zenn/image/upload/s--oZ44THVQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:n8n%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E9%259D%25A2%25E5%2580%2592%25E3%2581%258F%25E3%2581%2595%25E3%2581%2584%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AE%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B9%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE2OGMwYmM4MTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png</hatena:imageurl>
+<hatena:bookmarkcount>121</hatena:bookmarkcount>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446">
+<title>技術的負債の変質について - じゃあ、おうちで学べる</title>
+<link>https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446</link>
+<description>技術的負債の変質について はじめに 最近、ふと気づいたことがある。 技術負債って、もう昔とは全然違うゲームになってるんじゃないか？ コーヒーを飲みながら、10年前に書いた自分のコードを眺めていた。当時は「きれいに書いた」つもりだったけど、今見ると技術負債の塊だ。でも、それを直すのに必要な時間とコストの...</description>
+<dc:date>2025-06-10T01:22:35Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>技術</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>組織</dc:subject>
+<dc:subject>システム</dc:subject>
+<dc:subject>設計</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%8A%80%E8%A1%93"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E7%B5%84%E7%B9%94"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%A8%AD%E8%A8%88"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446" title="技術的負債の変質について - じゃあ、おうちで学べる"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsyu-m-5151.hatenablog.com%2Fentry%2F2025%2F06%2F10%2F091446" alt="" /> <a href="https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446">技術的負債の変質について - じゃあ、おうちで学べる</a></cite><p><a href="https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/757760a488d422299f05f1c0704e841a4556c13b/height=90;version=1;width=120/https%3A%2F%2Fogimage.blog.st-hatena.com%2F8454420450094081900%2F6802418398468730020%2F1749518520" alt="技術的負債の変質について - じゃあ、おうちで学べる" title="技術的負債の変質について - じゃあ、おうちで学べる" class="entry-image" /></a></p><p>技術的負債の変質について はじめに 最近、ふと気づいたことがある。 技術負債って、もう昔とは全然違うゲームになってるんじゃないか？ コーヒーを飲みながら、10年前に書いた自分のコードを眺めていた。当時は「きれいに書いた」つもりだったけど、今見ると技術負債の塊だ。でも、それを直すのに必要な時間とコストの...</p><p><a href="https://b.hatena.ne.jp/entry/s/syu-m-5151.hatenablog.com/entry/2025/06/10/091446"><img src="https://b.hatena.ne.jp/entry/image/https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446" alt="はてなブックマーク - 技術的負債の変質について - じゃあ、おうちで学べる" title="はてなブックマーク - 技術的負債の変質について - じゃあ、おうちで学べる" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/syu-m-5151.hatenablog.com/entry/2025/06/10/091446"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/syu-m-5151.hatenablog.com/entry/2025/06/10/091446</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/syu-m-5151.hatenablog.com/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://ogimage.blog.st-hatena.com/8454420450094081900/6802418398468730020/1749518520</hatena:imageurl>
+<hatena:bookmarkcount>70</hatena:bookmarkcount>
+</item>
+<item rdf:about="https://gigazine.net/news/20250610-google-phones/">
+<title>Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される</title>
+<link>https://gigazine.net/news/20250610-google-phones/</link>
+<description>Googleアカウントには電話番号を紐付けることが可能で、2段階認証プロセスに使用したり、ログインパスワードを忘れてしまったときの復旧に用いたりといった用途に活用できます。サイバーセキュリティ研究者が「Googleにどの電話番号が割り当てられているか」を発見できる脆弱(ぜいじゃく)性を指摘し、それを受けてGoogle...</description>
+<dc:date>2025-06-10T02:27:57Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>security</dc:subject>
+<dc:subject>google</dc:subject>
+<dc:subject>セキュリティ</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>GIGAZINE</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/security"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/google"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/GIGAZINE"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://gigazine.net/news/20250610-google-phones/" title="Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20250610-google-phones%2F" alt="" /> <a href="https://gigazine.net/news/20250610-google-phones/">Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される</a></cite><p><a href="https://gigazine.net/news/20250610-google-phones/"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/777148d30dd853757111f75d3979d1578cfad18f/height=90;version=1;width=120/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2025%2F06%2F10%2Fgoogle-phones%2F00.png" alt="Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される" title="Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される" class="entry-image" /></a></p><p>Googleアカウントには電話番号を紐付けることが可能で、2段階認証プロセスに使用したり、ログインパスワードを忘れてしまったときの復旧に用いたりといった用途に活用できます。サイバーセキュリティ研究者が「Googleにどの電話番号が割り当てられているか」を発見できる脆弱(ぜいじゃく)性を指摘し、それを受けてGoogle...</p><p><a href="https://b.hatena.ne.jp/entry/s/gigazine.net/news/20250610-google-phones/"><img src="https://b.hatena.ne.jp/entry/image/https://gigazine.net/news/20250610-google-phones/" alt="はてなブックマーク - Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される" title="はてなブックマーク - Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/gigazine.net/news/20250610-google-phones/"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/gigazine.net/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://i.gzn.jp/img/2025/06/10/google-phones/00.png</hatena:imageurl>
+<hatena:bookmarkcount>81</hatena:bookmarkcount>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20250610-google-phones/</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://www.ketancho.net/entry/2025/03/19/080000">
+<title>エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho</title>
+<link>https://www.ketancho.net/entry/2025/03/19/080000</link>
+<description>こんにちは、@ketancho です。 私はこれまで3年ほど *1 エンジニアリングマネージャーとして仕事をしているのですが *2、マネージャーになって以来、技術書以外の本を読む機会がとても増えました。 この記事ではそれらの本の中から、エンジニアリングマネージャーとして私の細胞になっているであろう本を4冊紹介させてい...</description>
+<dc:date>2025-06-09T09:59:22Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>マネジメント</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>本</dc:subject>
+<dc:subject>チーム</dc:subject>
+<dc:subject>読書</dc:subject>
+<dc:subject>management</dc:subject>
+<dc:subject>読んだ本</dc:subject>
+<dc:subject>仕事</dc:subject>
+<dc:subject>エンジニア</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%9C%AC"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%81%E3%83%BC%E3%83%A0"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%AA%AD%E6%9B%B8"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/management"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BB%95%E4%BA%8B"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.ketancho.net/entry/2025/03/19/080000" title="エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ketancho.net%2Fentry%2F2025%2F03%2F19%2F080000" alt="" /> <a href="https://www.ketancho.net/entry/2025/03/19/080000">エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho</a></cite><p><a href="https://www.ketancho.net/entry/2025/03/19/080000"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/b1e08f1b987114d9008240d7c00106981b5bd626/height=90;version=1;width=120/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F1e22c80305c4c589516bbd6a70e52ece0eb9e2d2%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fk%252Fketancho_jp%252F20250402%252F20250402113739.png" alt="エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho" title="エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho" class="entry-image" /></a></p><p>こんにちは、@ketancho です。 私はこれまで3年ほど *1 エンジニアリングマネージャーとして仕事をしているのですが *2、マネージャーになって以来、技術書以外の本を読む機会がとても増えました。 この記事ではそれらの本の中から、エンジニアリングマネージャーとして私の細胞になっているであろう本を4冊紹介させてい...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.ketancho.net/entry/2025/03/19/080000"><img src="https://b.hatena.ne.jp/entry/image/https://www.ketancho.net/entry/2025/03/19/080000" alt="はてなブックマーク - エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho" title="はてなブックマーク - エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.ketancho.net/entry/2025/03/19/080000"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.ketancho.net/entry/2025/03/19/080000</hatena:bookmarkCommentListPageUrl>
+<hatena:imageurl>https://cdn.image.st-hatena.com/image/scale/1e22c80305c4c589516bbd6a70e52ece0eb9e2d2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fketancho_jp%2F20250402%2F20250402113739.png</hatena:imageurl>
+<hatena:bookmarkcount>303</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.ketancho.net/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://zenn.dev/kazuph/articles/beb87d102bd4f5">
+<title>Claude Codeを並列組織化してClaude Code "Company"にするtmuxコマンド集</title>
+<link>https://zenn.dev/kazuph/articles/beb87d102bd4f5</link>
+<description>今日はこんなことをしてました。 最終的にタスクは完了したのですが、部長と部下で勝手に通信し合っておかしな話をしてました。 今日はそんな感じにはっぴーはっぴーになったClaudeさんが、本日最後の仕事として書き上げた部下のマネジメントのためのtmuxコマンド集です。 僕がそもそもバックエンドエンジニアでtmuxを使...</description>
+<dc:date>2025-06-09T13:43:44Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>AI</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>Claude</dc:subject>
+<dc:subject>LLM</dc:subject>
+<dc:subject>コマンド</dc:subject>
+<dc:subject>開発</dc:subject>
+<dc:subject>技術</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/AI"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Claude"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/LLM"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E9%96%8B%E7%99%BA"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%8A%80%E8%A1%93"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://zenn.dev/kazuph/articles/beb87d102bd4f5" title="Claude Codeを並列組織化してClaude Code &quot;Company&quot;にするtmuxコマンド集"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkazuph%2Farticles%2Fbeb87d102bd4f5" alt="" /> <a href="https://zenn.dev/kazuph/articles/beb87d102bd4f5">Claude Codeを並列組織化してClaude Code &quot;Company&quot;にするtmuxコマンド集</a></cite><p><a href="https://zenn.dev/kazuph/articles/beb87d102bd4f5"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/3a7bc58ba0ab7728befb0f5baad4db38c2aacef0/height=90;version=1;width=120/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--AroizRzh--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AClaude%252520Code%2525E3%252582%252592%2525E4%2525B8%2525A6%2525E5%252588%252597%2525E7%2525B5%252584%2525E7%2525B9%252594%2525E5%25258C%252596%2525E3%252581%252597%2525E3%252581%2525A6Claude%252520Code%252520%252522Company%252522%2525E3%252581%2525AB%2525E3%252581%252599%2525E3%252582%25258Btmux%2525E3%252582%2525B3%2525E3%252583%25259E%2525E3%252583%2525B3%2525E3%252583%252589%2525E9%25259B%252586%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akazuph%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFjNmY3ODBlZDYuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png" alt="Claude Codeを並列組織化してClaude Code &quot;Company&quot;にするtmuxコマンド集" title="Claude Codeを並列組織化してClaude Code &quot;Company&quot;にするtmuxコマンド集" class="entry-image" /></a></p><p>今日はこんなことをしてました。 最終的にタスクは完了したのですが、部長と部下で勝手に通信し合っておかしな話をしてました。 今日はそんな感じにはっぴーはっぴーになったClaudeさんが、本日最後の仕事として書き上げた部下のマネジメントのためのtmuxコマンド集です。 僕がそもそもバックエンドエンジニアでtmuxを使...</p><p><a href="https://b.hatena.ne.jp/entry/s/zenn.dev/kazuph/articles/beb87d102bd4f5"><img src="https://b.hatena.ne.jp/entry/image/https://zenn.dev/kazuph/articles/beb87d102bd4f5" alt="はてなブックマーク - Claude Codeを並列組織化してClaude Code &quot;Company&quot;にするtmuxコマンド集" title="はてなブックマーク - Claude Codeを並列組織化してClaude Code &quot;Company&quot;にするtmuxコマンド集" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/zenn.dev/kazuph/articles/beb87d102bd4f5"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/zenn.dev/kazuph/articles/beb87d102bd4f5</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/zenn.dev/kazuph</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://res.cloudinary.com/zenn/image/upload/s--AroizRzh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E4%25B8%25A6%25E5%2588%2597%25E7%25B5%2584%25E7%25B9%2594%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6Claude%2520Code%2520%2522Company%2522%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258Btmux%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazuph%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFjNmY3ODBlZDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png</hatena:imageurl>
+<hatena:bookmarkcount>121</hatena:bookmarkcount>
+</item>
+<item rdf:about="https://github.com/apple/container">
+<title>GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.</title>
+<link>https://github.com/apple/container</link>
+<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+<dc:date>2025-06-09T20:42:06Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>apple</dc:subject>
+<dc:subject>container</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>linux</dc:subject>
+<dc:subject>mac</dc:subject>
+<dc:subject>pc</dc:subject>
+<dc:subject>docker</dc:subject>
+<dc:subject>github</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/container"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/linux"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/mac"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/pc"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/docker"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/github"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://github.com/apple/container" title="GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon."><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fapple%2Fcontainer" alt="" /> <a href="https://github.com/apple/container">GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.</a></cite><p><a href="https://github.com/apple/container"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/6443ca77c265aac6100f9479c20df8bfbb92a36b/height=90;version=1;width=120/https%3A%2F%2Frepository-images.githubusercontent.com%2F993475914%2F123bf50d-9ae2-48d9-94f7-7a345bf82c15" alt="GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon." title="GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon." class="entry-image" /></a></p><p>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</p><p><a href="https://b.hatena.ne.jp/entry/s/github.com/apple/container"><img src="https://b.hatena.ne.jp/entry/image/https://github.com/apple/container" alt="はてなブックマーク - GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon." title="はてなブックマーク - GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon." border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/github.com/apple/container"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/github.com/apple/container</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/github.com/apple</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkcount>82</hatena:bookmarkcount>
+<hatena:imageurl>https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15</hatena:imageurl>
+</item>
+<item rdf:about="https://www.itmedia.co.jp/news/articles/2506/10/news076.html">
+<title>「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様</title>
+<link>https://www.itmedia.co.jp/news/articles/2506/10/news076.html</link>
+<description>「ウルトラハイスピードHDMIケーブル」は、転送速度48Gbps、8K／60Hz、4K／120Hzに対応したHDMIケーブルの規格（HDMI 2.1）だ。 また同社は、ACアダプターも、Switch 2付属のアダプターを使うよう呼び掛けている。Switchに付属していたACアダプタでは、Switch 2への充電は可能だが、テレビに映像を出力できないという。 ...</description>
+<dc:date>2025-06-10T01:20:02Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>任天堂</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>ゲーム</dc:subject>
+<dc:subject>未分類</dc:subject>
+<dc:subject>家電</dc:subject>
+<dc:subject>network</dc:subject>
+<dc:subject>game</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BB%BB%E5%A4%A9%E5%A0%82"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B2%E3%83%BC%E3%83%A0"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%9C%AA%E5%88%86%E9%A1%9E"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E5%AE%B6%E9%9B%BB"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/network"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/game"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.itmedia.co.jp/news/articles/2506/10/news076.html" title="「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fnews076.html" alt="" /> <a href="https://www.itmedia.co.jp/news/articles/2506/10/news076.html">「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様</a></cite><p><a href="https://www.itmedia.co.jp/news/articles/2506/10/news076.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/a77bf93a7a996f746fab469d4b20993374acdaec/height=90;version=1;width=120/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fcover_news076.jpg" alt="「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様" title="「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様" class="entry-image" /></a></p><p>「ウルトラハイスピードHDMIケーブル」は、転送速度48Gbps、8K／60Hz、4K／120Hzに対応したHDMIケーブルの規格（HDMI 2.1）だ。 また同社は、ACアダプターも、Switch 2付属のアダプターを使うよう呼び掛けている。Switchに付属していたACアダプタでは、Switch 2への充電は可能だが、テレビに映像を出力できないという。 ...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news076.html"><img src="https://b.hatena.ne.jp/entry/image/https://www.itmedia.co.jp/news/articles/2506/10/news076.html" alt="はてなブックマーク - 「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様" title="はてなブックマーク - 「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news076.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.itmedia.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkcount>58</hatena:bookmarkcount>
+<hatena:imageurl>https://image.itmedia.co.jp/news/articles/2506/10/cover_news076.jpg</hatena:imageurl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news076.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://www.itmedia.co.jp/news/articles/2506/10/news119.html">
+<title>JR東に“ブルートレイン”復活か　27年春に新型夜行特急</title>
+<link>https://www.itmedia.co.jp/news/articles/2506/10/news119.html</link>
+<description>JR東日本は6月10日、首都圏と北東北エリアを結ぶ新たな夜行特急列車を2027年春に導入すると発表した。車両全体を2つの青で塗装し、1号車側には「ブルートレインの記憶を受け継ぐ明るい青」を使用するとしている。 E657系の特急型車両10両1編成を全席グリーン車指定席の個室タイプに改造する。個室は定員1～4人のタイプが...</description>
+<dc:date>2025-06-10T07:21:12Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>鉄道</dc:subject>
+<dc:subject>技術</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>*あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E9%89%84%E9%81%93"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%8A%80%E8%A1%93"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%2A%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.itmedia.co.jp/news/articles/2506/10/news119.html" title="JR東に“ブルートレイン”復活か　27年春に新型夜行特急"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fnews119.html" alt="" /> <a href="https://www.itmedia.co.jp/news/articles/2506/10/news119.html">JR東に“ブルートレイン”復活か　27年春に新型夜行特急</a></cite><p><a href="https://www.itmedia.co.jp/news/articles/2506/10/news119.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/31de61036cf63e5a1dbf5554fcc7bb351e25cae3/height=90;version=1;width=120/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fcover_news119.jpg" alt="JR東に“ブルートレイン”復活か　27年春に新型夜行特急" title="JR東に“ブルートレイン”復活か　27年春に新型夜行特急" class="entry-image" /></a></p><p>JR東日本は6月10日、首都圏と北東北エリアを結ぶ新たな夜行特急列車を2027年春に導入すると発表した。車両全体を2つの青で塗装し、1号車側には「ブルートレインの記憶を受け継ぐ明るい青」を使用するとしている。 E657系の特急型車両10両1編成を全席グリーン車指定席の個室タイプに改造する。個室は定員1～4人のタイプが...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news119.html"><img src="https://b.hatena.ne.jp/entry/image/https://www.itmedia.co.jp/news/articles/2506/10/news119.html" alt="はてなブックマーク - JR東に“ブルートレイン”復活か　27年春に新型夜行特急" title="はてなブックマーク - JR東に“ブルートレイン”復活か　27年春に新型夜行特急" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news119.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news119.html</hatena:bookmarkCommentListPageUrl>
+<hatena:imageurl>https://image.itmedia.co.jp/news/articles/2506/10/cover_news119.jpg</hatena:imageurl>
+<hatena:bookmarkcount>30</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.itmedia.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://forest.watch.impress.co.jp/docs/news/2020947.html">
+<title>有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2020947.html</link>
+<description/>
+<dc:date>2025-06-09T07:22:26Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>AI</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>金融</dc:subject>
+<dc:subject>未分類</dc:subject>
+<dc:subject>投資</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/AI"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E9%87%91%E8%9E%8D"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%9C%AA%E5%88%86%E9%A1%9E"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%8A%95%E8%B3%87"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://forest.watch.impress.co.jp/docs/news/2020947.html" title="有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2020947.html" alt="" /> <a href="https://forest.watch.impress.co.jp/docs/news/2020947.html">有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価</a></cite><p><a href="https://forest.watch.impress.co.jp/docs/news/2020947.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/df65a084569e5d76940afae607746f2689910b4a/height=90;version=1;width=120/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2020%2F947%2F1.jpg" alt="有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価" title="有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価" class="entry-image" /></a></p><p></p><p><a href="https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2020947.html"><img src="https://b.hatena.ne.jp/entry/image/https://forest.watch.impress.co.jp/docs/news/2020947.html" alt="はてなブックマーク - 有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価" title="はてなブックマーク - 有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2020947.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/forest.watch.impress.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkcount>109</hatena:bookmarkcount>
+<hatena:imageurl>https://forest.watch.impress.co.jp/img/wf/list/2020/947/1.jpg</hatena:imageurl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2020947.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://zenn.dev/k2wanko/articles/7b12cc87fabc18">
+<title>WWDC25 で出てきた Containerization Framework を試す</title>
+<link>https://zenn.dev/k2wanko/articles/7b12cc87fabc18</link>
+<description>Containerization Framework は Apple の OSS で提供される Mac 上で直接 Linux コンテナイメージの作成、ダウンロード、実行ができる API およびツールです。 キーノートでは一切触れられなかったけど、Newsroom の記事にこっそり載っており、Inductor さんのツイートで気づきました。 Containerization Framework The ...</description>
+<dc:date>2025-06-09T22:47:29Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>container</dc:subject>
+<dc:subject>docker</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>apple</dc:subject>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/container"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/docker"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/mac"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://zenn.dev/k2wanko/articles/7b12cc87fabc18" title="WWDC25 で出てきた Containerization Framework を試す"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fk2wanko%2Farticles%2F7b12cc87fabc18" alt="" /> <a href="https://zenn.dev/k2wanko/articles/7b12cc87fabc18">WWDC25 で出てきた Containerization Framework を試す</a></cite><p><a href="https://zenn.dev/k2wanko/articles/7b12cc87fabc18"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/66b1339641834f0226d5b2cef5a4438737a21969/height=90;version=1;width=120/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--GY2-5XlZ--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AWWDC25%252520%2525E3%252581%2525A7%2525E5%252587%2525BA%2525E3%252581%2525A6%2525E3%252581%25258D%2525E3%252581%25259F%252520Containerization%252520Framework%252520%2525E3%252582%252592%2525E8%2525A9%2525A6%2525E3%252581%252599%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3A%2525E3%252582%2525B3%2525E3%252582%2525AD%2525E3%252583%252581%2525E3%252583%2525BC%2525E3%252582%2525BA%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h3dEJpcG9IY3hCYndzajJ5bFFjdkZfd2NHa2otald4bGFSQ2FxOU5VPXMyNTAtYw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png" alt="WWDC25 で出てきた Containerization Framework を試す" title="WWDC25 で出てきた Containerization Framework を試す" class="entry-image" /></a></p><p>Containerization Framework は Apple の OSS で提供される Mac 上で直接 Linux コンテナイメージの作成、ダウンロード、実行ができる API およびツールです。 キーノートでは一切触れられなかったけど、Newsroom の記事にこっそり載っており、Inductor さんのツイートで気づきました。 Containerization Framework The ...</p><p><a href="https://b.hatena.ne.jp/entry/s/zenn.dev/k2wanko/articles/7b12cc87fabc18"><img src="https://b.hatena.ne.jp/entry/image/https://zenn.dev/k2wanko/articles/7b12cc87fabc18" alt="はてなブックマーク - WWDC25 で出てきた Containerization Framework を試す" title="はてなブックマーク - WWDC25 で出てきた Containerization Framework を試す" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/zenn.dev/k2wanko/articles/7b12cc87fabc18"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/zenn.dev/k2wanko</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://res.cloudinary.com/zenn/image/upload/s--GY2-5XlZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WWDC25%2520%25E3%2581%25A7%25E5%2587%25BA%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2520Containerization%2520Framework%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B3%25E3%2582%25AD%25E3%2583%2581%25E3%2583%25BC%25E3%2582%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h3dEJpcG9IY3hCYndzajJ5bFFjdkZfd2NHa2otald4bGFSQ2FxOU5VPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png</hatena:imageurl>
+<hatena:bookmarkcount>66</hatena:bookmarkcount>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/zenn.dev/k2wanko/articles/7b12cc87fabc18</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://togetter.com/li/2561616">
+<title>ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ</title>
+<link>https://togetter.com/li/2561616</link>
+<description>ピエール中野 凛として時雨 ピヤホン監修 @Pinakano ドラムとイヤホンとDJで、毎日を彩る。凛として時雨、ZiNG、FZMZ所属。e☆イヤホン公式アンバサダー。イヤホンアワード殿堂入り／イヤホン総選挙1位／3年連続売上No.1。ミュージシャン・グラミー受賞者・格付け神・芸能人・スポーツ選手など多数愛用。インタビュー連載...</description>
+<dc:date>2025-06-09T10:15:24Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>イヤホン</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>ヘッドフォン</dc:subject>
+<dc:subject>音楽</dc:subject>
+<dc:subject>オーディオ</dc:subject>
+<dc:subject>まとめ</dc:subject>
+<dc:subject>生活</dc:subject>
+<dc:subject>togetter</dc:subject>
+<dc:subject>twitter</dc:subject>
+<dc:subject>gadget</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E9%9F%B3%E6%A5%BD"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%BE%E3%81%A8%E3%82%81"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E7%94%9F%E6%B4%BB"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/togetter"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/twitter"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/gadget"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://togetter.com/li/2561616" title="ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2561616" alt="" /> <a href="https://togetter.com/li/2561616">ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ</a></cite><p><a href="https://togetter.com/li/2561616"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/79a049b75f118978cf8cd0749eab795a2a7259f9/height=90;version=1;width=120/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Fa3ac504321149226aba39044aa59024e-1200x630.jpeg" alt="ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ" title="ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ" class="entry-image" /></a></p><p>ピエール中野 凛として時雨 ピヤホン監修 @Pinakano ドラムとイヤホンとDJで、毎日を彩る。凛として時雨、ZiNG、FZMZ所属。e☆イヤホン公式アンバサダー。イヤホンアワード殿堂入り／イヤホン総選挙1位／3年連続売上No.1。ミュージシャン・グラミー受賞者・格付け神・芸能人・スポーツ選手など多数愛用。インタビュー連載...</p><p><a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2561616"><img src="https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2561616" alt="はてなブックマーク - ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ" title="はてなブックマーク - ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2561616"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkcount>266</hatena:bookmarkcount>
+<hatena:imageurl>https://s.tgstc.com/ogp3/a3ac504321149226aba39044aa59024e-1200x630.jpeg</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/togetter.com/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/togetter.com/li/2561616</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://wirelesswire.jp/2025/06/88810/">
+<title>MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化</title>
+<link>https://wirelesswire.jp/2025/06/88810/</link>
+<description>MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化 2025.06.09 Updated by yomoyomo on June 9, 2025, 16:30 pm JST この連載でも何度か名前を引き合いに出しているオライリー・メディアのマイク・ルキダスが、重要ないし興味深いテクノロジーやビジネスのトレンドをリストアップするRadar Tren...</description>
+<dc:date>2025-06-09T11:43:23Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>AI</dc:subject>
+<dc:subject>MCP</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>人工知能</dc:subject>
+<dc:subject>webサービス</dc:subject>
+<dc:subject>ツール</dc:subject>
+<dc:subject>セキュリティ</dc:subject>
+<dc:subject>web</dc:subject>
+<dc:subject>社会</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/AI"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/MCP"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%84%E3%83%BC%E3%83%AB"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/web"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E7%A4%BE%E4%BC%9A"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://wirelesswire.jp/2025/06/88810/" title="MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwirelesswire.jp%2F2025%2F06%2F88810%2F" alt="" /> <a href="https://wirelesswire.jp/2025/06/88810/">MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化</a></cite><p><a href="https://wirelesswire.jp/2025/06/88810/"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/6d6ef8af07f7e77ecec19ec19e20c7d3702230fe/height=90;version=1;width=120/https%3A%2F%2Fwirelesswire.jp%2Fwp-content%2Fuploads%2F2025%2F06%2Fp20250609_ec2.jpg" alt="MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化" title="MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化" class="entry-image" /></a></p><p>MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化 2025.06.09 Updated by yomoyomo on June 9, 2025, 16:30 pm JST この連載でも何度か名前を引き合いに出しているオライリー・メディアのマイク・ルキダスが、重要ないし興味深いテクノロジーやビジネスのトレンドをリストアップするRadar Tren...</p><p><a href="https://b.hatena.ne.jp/entry/s/wirelesswire.jp/2025/06/88810/"><img src="https://b.hatena.ne.jp/entry/image/https://wirelesswire.jp/2025/06/88810/" alt="はてなブックマーク - MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化" title="はてなブックマーク - MCPが後押しするAIじかけのウェブ、AIが後押しするオープンなウェブの空洞化" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/wirelesswire.jp/2025/06/88810/"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/wirelesswire.jp/2025/06/88810/</hatena:bookmarkCommentListPageUrl>
+<hatena:imageurl>https://wirelesswire.jp/wp-content/uploads/2025/06/p20250609_ec2.jpg</hatena:imageurl>
+<hatena:bookmarkcount>74</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/wirelesswire.jp/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://www.itmedia.co.jp/news/articles/2506/10/news099.html">
+<title>Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に</title>
+<link>https://www.itmedia.co.jp/news/articles/2506/10/news099.html</link>
+<description>中国人観光客向けビザの発給要件を緩和する政府の方針を踏まえた施策。これまでは中国人観光客がよく使う決済手段をサポートしておらず、増加するニーズに対応できていなかったところ、WeChatからの支払いを可能にし、需要に応えるという。 関連記事 電動キックボード初の死亡事故、車両はLuup　同社が声明　「ルール順...</description>
+<dc:date>2025-06-10T05:03:54Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>交通</dc:subject>
+<dc:subject>webサービス</dc:subject>
+<dc:subject>サービス</dc:subject>
+<dc:subject>観光</dc:subject>
+<dc:subject>中国</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%A4%E9%80%9A"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%A6%B3%E5%85%89"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%B8%AD%E5%9B%BD"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.itmedia.co.jp/news/articles/2506/10/news099.html" title="Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fnews099.html" alt="" /> <a href="https://www.itmedia.co.jp/news/articles/2506/10/news099.html">Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に</a></cite><p><a href="https://www.itmedia.co.jp/news/articles/2506/10/news099.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/71a45e72dfa7dbb6c327e407028e481a2b09e627/height=90;version=1;width=120/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fcover_news099.jpg" alt="Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に" title="Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に" class="entry-image" /></a></p><p>中国人観光客向けビザの発給要件を緩和する政府の方針を踏まえた施策。これまでは中国人観光客がよく使う決済手段をサポートしておらず、増加するニーズに対応できていなかったところ、WeChatからの支払いを可能にし、需要に応えるという。 関連記事 電動キックボード初の死亡事故、車両はLuup　同社が声明　「ルール順...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news099.html"><img src="https://b.hatena.ne.jp/entry/image/https://www.itmedia.co.jp/news/articles/2506/10/news099.html" alt="はてなブックマーク - Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に" title="はてなブックマーク - Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news099.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.itmedia.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://image.itmedia.co.jp/news/articles/2506/10/cover_news099.jpg</hatena:imageurl>
+<hatena:bookmarkcount>27</hatena:bookmarkcount>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news099.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://forest.watch.impress.co.jp/docs/news/2021121.html">
+<title>技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2021121.html</link>
+<description/>
+<dc:date>2025-06-10T01:28:09Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>書籍</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>本</dc:subject>
+<dc:subject>出版</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%9B%B8%E7%B1%8D"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E6%9C%AC"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E5%87%BA%E7%89%88"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://forest.watch.impress.co.jp/docs/news/2021121.html" title="技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2021121.html" alt="" /> <a href="https://forest.watch.impress.co.jp/docs/news/2021121.html">技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す</a></cite><p><a href="https://forest.watch.impress.co.jp/docs/news/2021121.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/53eeb1b8596bc907c567e0fd80cc5ca6e20127dd/height=90;version=1;width=120/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2021%2F121%2Ftech1.png" alt="技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す" title="技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す" class="entry-image" /></a></p><p></p><p><a href="https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2021121.html"><img src="https://b.hatena.ne.jp/entry/image/https://forest.watch.impress.co.jp/docs/news/2021121.html" alt="はてなブックマーク - 技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す" title="はてなブックマーク - 技術書籍読み放題サービスが今秋開始、合弁会社をインプレスと丸善CHIホールディングスが設立／PC・IT系出版社数社の書籍を同時に提供す" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2021121.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkcount>51</hatena:bookmarkcount>
+<hatena:imageurl>https://forest.watch.impress.co.jp/img/wf/list/2021/121/tech1.png</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/forest.watch.impress.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2021121.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra">
+<title>もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond</title>
+<link>https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra</link>
+<description>これは要件により変わるというのが回答になります。以下長くなりますが、お付き合い下さい。 オンラインバンキングの方は、不正取引との長い戦いの歴史があり、それでいて不正アクセスによる被害が減らないという現状があります。「こうすれば安全になる」という理屈は、長い歴史の中である程度知見が溜まっているはずで...</description>
+<dc:date>2025-06-09T14:21:57Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>セキュリティ</dc:subject>
+<dc:subject>security</dc:subject>
+<dc:subject>設計</dc:subject>
+<dc:subject>finance</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/security"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%A8%AD%E8%A8%88"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/finance"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra" title="もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmond.how%2Fja%2Ftopics%2Foh29t739o02xojm%2Feyqo7ib32qlj3ra" alt="" /> <a href="https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra">もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond</a></cite><p><a href="https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/1253c3b1fcf5d18b1446e4eaf1e16accac1669ba/height=90;version=1;width=120/https%3A%2F%2Fasia-northeast1-pjt-knowledge.cloudfunctions.net%2FogpImage2ndGen%3Fq%3Dc%3Aeyqo7ib32qlj3ra%3A13647de5cb8ccf41b3406787c7a1a7689ed31a84%26v%3D3%26external_post_language%3Dja" alt="もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond" title="もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond" class="entry-image" /></a></p><p>これは要件により変わるというのが回答になります。以下長くなりますが、お付き合い下さい。 オンラインバンキングの方は、不正取引との長い戦いの歴史があり、それでいて不正アクセスによる被害が減らないという現状があります。「こうすれば安全になる」という理屈は、長い歴史の中である程度知見が溜まっているはずで...</p><p><a href="https://b.hatena.ne.jp/entry/s/mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra"><img src="https://b.hatena.ne.jp/entry/image/https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra" alt="はてなブックマーク - もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond" title="はてなブックマーク - もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/mond.how/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://asia-northeast1-pjt-knowledge.cloudfunctions.net/ogpImage2ndGen?q=c:eyqo7ib32qlj3ra:13647de5cb8ccf41b3406787c7a1a7689ed31a84&v=3&external_post_language=ja</hatena:imageurl>
+<hatena:bookmarkcount>37</hatena:bookmarkcount>
+</item>
+<item rdf:about="https://gihyo.jp/article/2025/06/apple-container">
+<title>Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2025/06/apple-container</link>
+<description>Apple⁠⁠、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 Appleは、Mac上で軽量仮想マシンを使ってLinuxコンテナを作成・実行するためのツール「container」を開発し、Apache License 2.0のもとGitHub上にオープンソースとして公開した。 apple/container: A tool for creating and ru...</description>
+<dc:date>2025-06-10T02:10:37Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>Apple</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/Apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://gihyo.jp/article/2025/06/apple-container" title="Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgihyo.jp%2Farticle%2F2025%2F06%2Fapple-container" alt="" /> <a href="https://gihyo.jp/article/2025/06/apple-container">Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp</a></cite><p><a href="https://gihyo.jp/article/2025/06/apple-container"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/b6de9141071c47d2de1adbc0d1e65352d3551cfd/height=90;version=1;width=120/https%3A%2F%2Fgihyo.jp%2Fassets%2Fimages%2FICON%2F2025%2F2525_apple-container.png" alt="Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp" title="Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp" class="entry-image" /></a></p><p>Apple⁠⁠、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 Appleは、Mac上で軽量仮想マシンを使ってLinuxコンテナを作成・実行するためのツール「container」を開発し、Apache License 2.0のもとGitHub上にオープンソースとして公開した。 apple/container: A tool for creating and ru...</p><p><a href="https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2025/06/apple-container"><img src="https://b.hatena.ne.jp/entry/image/https://gihyo.jp/article/2025/06/apple-container" alt="はてなブックマーク - Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp" title="はてなブックマーク - Apple、macOS上でLinuxコンテナを直接実行できる「container」をオープンソースとして公開 | gihyo.jp" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2025/06/apple-container"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2025/06/apple-container</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/gihyo.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://gihyo.jp/assets/images/ICON/2025/2525_apple-container.png</hatena:imageurl>
+<hatena:bookmarkcount>40</hatena:bookmarkcount>
+</item>
+<item rdf:about="https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945">
+<title>これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog</title>
+<link>https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945</link>
+<description>ストックマーク株式会社にて技術広報とウェブエンジニアを勤めている安藤です。 当社は生成AIをフルスクラッチで開発している企業ということもあり、LLMの開発についてのご質問をいただく機会が増えてきました。 そこで今回、LLMの新規開発・性能研究なども行っている当社のリサーチチーム 広田さんにストックマークに寄...</description>
+<dc:date>2025-06-10T01:58:47Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>人工知能</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945" title="これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fstockmark-tech.hatenablog.com%2Fentry%2F2025%2F06%2F10%2F101945" alt="" /> <a href="https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945">これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog</a></cite><p><a href="https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/0d9a6519e65b45a3e34ebf51b843b5f4cdde4b10/height=90;version=1;width=120/https%3A%2F%2Fogimage.blog.st-hatena.com%2F6801883189091729073%2F6802418398467785476%2F1749518385" alt="これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog" title="これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog" class="entry-image" /></a></p><p>ストックマーク株式会社にて技術広報とウェブエンジニアを勤めている安藤です。 当社は生成AIをフルスクラッチで開発している企業ということもあり、LLMの開発についてのご質問をいただく機会が増えてきました。 そこで今回、LLMの新規開発・性能研究なども行っている当社のリサーチチーム 広田さんにストックマークに寄...</p><p><a href="https://b.hatena.ne.jp/entry/s/stockmark-tech.hatenablog.com/entry/2025/06/10/101945"><img src="https://b.hatena.ne.jp/entry/image/https://stockmark-tech.hatenablog.com/entry/2025/06/10/101945" alt="はてなブックマーク - これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog" title="はてなブックマーク - これからLLM開発を始める方へ 〜軽量な特化モデル開発の課題とコスト〜 - Stockmark Tech Blog" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/stockmark-tech.hatenablog.com/entry/2025/06/10/101945"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/stockmark-tech.hatenablog.com/entry/2025/06/10/101945</hatena:bookmarkCommentListPageUrl>
+<hatena:imageurl>https://ogimage.blog.st-hatena.com/6801883189091729073/6802418398467785476/1749518385</hatena:imageurl>
+<hatena:bookmarkcount>19</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/stockmark-tech.hatenablog.com/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://pc.watch.impress.co.jp/docs/news/2021444.html">
+<title>360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2021444.html</link>
+<description/>
+<dc:date>2025-06-10T07:16:41Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://pc.watch.impress.co.jp/docs/news/2021444.html" title="360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2021444.html" alt="" /> <a href="https://pc.watch.impress.co.jp/docs/news/2021444.html">360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる</a></cite><p><a href="https://pc.watch.impress.co.jp/docs/news/2021444.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/633a7d1b86109d22bc44683047ff22a0e34eeb44/height=90;version=1;width=120/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2021%2F444%2F01.jpg" alt="360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる" title="360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる" class="entry-image" /></a></p><p></p><p><a href="https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2021444.html"><img src="https://b.hatena.ne.jp/entry/image/https://pc.watch.impress.co.jp/docs/news/2021444.html" alt="はてなブックマーク - 360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる" title="はてなブックマーク - 360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2021444.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkcount>11</hatena:bookmarkcount>
+<hatena:imageurl>https://pc.watch.impress.co.jp/img/pcw/list/2021/444/01.jpg</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/pc.watch.impress.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2021444.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://zenn.dev/pepabo/articles/99042d27d6cf3b">
+<title>Playwright MCPを使ってNotebookLMに自動でソースを流し込む</title>
+<link>https://zenn.dev/pepabo/articles/99042d27d6cf3b</link>
+<description>NotebookLMは、Googleが提供するAI搭載のノートブック機能で、既に多くの人がさまざまな用途で活用していることでしょう。 しかし、NotebookLMは現時点(2025/06/09)ではAPIが提供されていないため、複数のソースを一括で流し込むことができず、一旦手元でテキスト化したり、各ソースの手動でのアップロードが必要になっ...</description>
+<dc:date>2025-06-09T14:21:39Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>MCP</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>NotebookLM</dc:subject>
+<dc:subject>Playwright</dc:subject>
+<dc:subject>notion</dc:subject>
+<dc:subject>AI</dc:subject>
+<dc:subject>API</dc:subject>
+<dc:subject>これはすごい</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/MCP"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/NotebookLM"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Playwright"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/notion"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/AI"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/API"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%93%E3%82%8C%E3%81%AF%E3%81%99%E3%81%94%E3%81%84"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://zenn.dev/pepabo/articles/99042d27d6cf3b" title="Playwright MCPを使ってNotebookLMに自動でソースを流し込む"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fpepabo%2Farticles%2F99042d27d6cf3b" alt="" /> <a href="https://zenn.dev/pepabo/articles/99042d27d6cf3b">Playwright MCPを使ってNotebookLMに自動でソースを流し込む</a></cite><p><a href="https://zenn.dev/pepabo/articles/99042d27d6cf3b"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/13ec9e1aad613bb7575c648540559a52198027e8/height=90;version=1;width=120/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--wIcX2rzn--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3APlaywright%252520MCP%2525E3%252582%252592%2525E4%2525BD%2525BF%2525E3%252581%2525A3%2525E3%252581%2525A6NotebookLM%2525E3%252581%2525AB%2525E8%252587%2525AA%2525E5%25258B%252595%2525E3%252581%2525A7%2525E3%252582%2525BD%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E6%2525B5%252581%2525E3%252581%252597%2525E8%2525BE%2525BC%2525E3%252582%252580%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Anacal%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0ZTQxODhhYTMuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3AGMO%2525E3%252583%25259A%2525E3%252583%252591%2525E3%252583%25259C%2525E6%2525A0%2525AA%2525E5%2525BC%25258F%2525E4%2525BC%25259A%2525E7%2525A4%2525BE%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAyMTBjMWMzNzguanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png" alt="Playwright MCPを使ってNotebookLMに自動でソースを流し込む" title="Playwright MCPを使ってNotebookLMに自動でソースを流し込む" class="entry-image" /></a></p><p>NotebookLMは、Googleが提供するAI搭載のノートブック機能で、既に多くの人がさまざまな用途で活用していることでしょう。 しかし、NotebookLMは現時点(2025/06/09)ではAPIが提供されていないため、複数のソースを一括で流し込むことができず、一旦手元でテキスト化したり、各ソースの手動でのアップロードが必要になっ...</p><p><a href="https://b.hatena.ne.jp/entry/s/zenn.dev/pepabo/articles/99042d27d6cf3b"><img src="https://b.hatena.ne.jp/entry/image/https://zenn.dev/pepabo/articles/99042d27d6cf3b" alt="はてなブックマーク - Playwright MCPを使ってNotebookLMに自動でソースを流し込む" title="はてなブックマーク - Playwright MCPを使ってNotebookLMに自動でソースを流し込む" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/zenn.dev/pepabo/articles/99042d27d6cf3b"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/zenn.dev/pepabo/articles/99042d27d6cf3b</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/zenn.dev/pepabo</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkcount>100</hatena:bookmarkcount>
+<hatena:imageurl>https://res.cloudinary.com/zenn/image/upload/s--wIcX2rzn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520MCP%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6NotebookLM%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E6%25B5%2581%25E3%2581%2597%25E8%25BE%25BC%25E3%2582%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nacal%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0ZTQxODhhYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GMO%25E3%2583%259A%25E3%2583%2591%25E3%2583%259C%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAyMTBjMWMzNzguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png</hatena:imageurl>
+</item>
+<item rdf:about="https://togetter.com/li/2561659">
+<title>夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい</title>
+<link>https://togetter.com/li/2561659</link>
+<description>小川一水 @ogawaissui 夜中に車で帰ってきたら、暗闇にチラチラ光る反射材で、歩行者の存在に気づけたことが、今日もあった。これ当人はあまり意識してないかもしれないが、ほんとにその数センチのテープのおかげで余裕を持って避けられるので、運転手はとても感謝してると知ってもらいたい。 2025-06-08 23:46:01</description>
+<dc:date>2025-06-09T12:07:15Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>セキュリティ</dc:subject>
+<dc:subject>交通</dc:subject>
+<dc:subject>車</dc:subject>
+<dc:subject>car</dc:subject>
+<dc:subject>育児</dc:subject>
+<dc:subject>自動車</dc:subject>
+<dc:subject>Togetter</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%A4%E9%80%9A"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%BB%8A"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/car"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%82%B2%E5%85%90"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%87%AA%E5%8B%95%E8%BB%8A"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Togetter"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://togetter.com/li/2561659" title="夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2561659" alt="" /> <a href="https://togetter.com/li/2561659">夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい</a></cite><p><a href="https://togetter.com/li/2561659"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/ee7c2cc963ec5a4ca194a22ee40413b5ef5d73dd/height=90;version=1;width=120/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F322401a219f9e47b1f70cca03e114750-1200x630.jpeg" alt="夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい" title="夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい" class="entry-image" /></a></p><p>小川一水 @ogawaissui 夜中に車で帰ってきたら、暗闇にチラチラ光る反射材で、歩行者の存在に気づけたことが、今日もあった。これ当人はあまり意識してないかもしれないが、ほんとにその数センチのテープのおかげで余裕を持って避けられるので、運転手はとても感謝してると知ってもらいたい。 2025-06-08 23:46:01</p><p><a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2561659"><img src="https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2561659" alt="はてなブックマーク - 夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい" title="はてなブックマーク - 夜中に車で帰っていたら、暗闇に光る反射材で歩行者の存在に気づけたことが今日もあった… その数センチのテープのおかげで車は余裕を持って避けられることを知ってもらいたい" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2561659"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/togetter.com/li/2561659</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkcount>46</hatena:bookmarkcount>
+<hatena:imageurl>https://s.tgstc.com/ogp3/322401a219f9e47b1f70cca03e114750-1200x630.jpeg</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/togetter.com/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html">
+<title>「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html</link>
+<description/>
+<dc:date>2025-06-10T00:48:53Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>PDF</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/PDF"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html" title="「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fadobetech%2F2020568.html" alt="" /> <a href="https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html">「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】</a></cite><p><a href="https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/248af56babd1dc18db1165adb6067037c39b9a64/height=90;version=1;width=120/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2020%2F568%2F1.jpg" alt="「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】" title="「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】" class="entry-image" /></a></p><p></p><p><a href="https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html"><img src="https://b.hatena.ne.jp/entry/image/https://forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html" alt="はてなブックマーク - 「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】" title="はてなブックマーク - 「PDFからコピペしたら文字化けした」……それってPDFが「構造化」されてないからかも!?【教えて！助けて!! Adobe先生】" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkcount>27</hatena:bookmarkcount>
+<hatena:imageurl>https://forest.watch.impress.co.jp/img/wf/list/2020/568/1.jpg</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/forest.watch.impress.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/serial/adobetech/2020568.html</hatena:bookmarkCommentListPageUrl>
+</item>
+<item rdf:about="https://nealle-dev.hatenablog.com/entry/2025/06/10/121331">
+<title>CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer's Blog</title>
+<link>https://nealle-dev.hatenablog.com/entry/2025/06/10/121331</link>
+<description>こんにちは、ニーリーの佐古です。 現在開発速度や開発者体験の向上のため、取り組みの諸々を遂行しています。 開発者体験とCI 天井の雨漏りが4か月ほど止まらないので私の開発者体験は酷いことになっています。 さて、皆さんCIの待ち時間はお好きですか？私は大嫌いです。 弊社バックエンドリポジトリのPR時CIはプロダ...</description>
+<dc:date>2025-06-10T03:13:52Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://nealle-dev.hatenablog.com/entry/2025/06/10/121331" title="CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer&#39;s Blog"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnealle-dev.hatenablog.com%2Fentry%2F2025%2F06%2F10%2F121331" alt="" /> <a href="https://nealle-dev.hatenablog.com/entry/2025/06/10/121331">CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer&#39;s Blog</a></cite><p><a href="https://nealle-dev.hatenablog.com/entry/2025/06/10/121331"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/30f94522b055fd946051a4a387a6ab62bc9dadc6/height=90;version=1;width=120/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fd7680d2511c87d1ceeb959ec82ce62fffe4ed646%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fl%252Flambig_in_nealle%252F20250609%252F20250609205912.png" alt="CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer&#39;s Blog" title="CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer&#39;s Blog" class="entry-image" /></a></p><p>こんにちは、ニーリーの佐古です。 現在開発速度や開発者体験の向上のため、取り組みの諸々を遂行しています。 開発者体験とCI 天井の雨漏りが4か月ほど止まらないので私の開発者体験は酷いことになっています。 さて、皆さんCIの待ち時間はお好きですか？私は大嫌いです。 弊社バックエンドリポジトリのPR時CIはプロダ...</p><p><a href="https://b.hatena.ne.jp/entry/s/nealle-dev.hatenablog.com/entry/2025/06/10/121331"><img src="https://b.hatena.ne.jp/entry/image/https://nealle-dev.hatenablog.com/entry/2025/06/10/121331" alt="はてなブックマーク - CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer&#39;s Blog" title="はてなブックマーク - CIの時間を(できるだけ楽して)半分にしてみた - Nealle Developer&#39;s Blog" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/nealle-dev.hatenablog.com/entry/2025/06/10/121331"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/nealle-dev.hatenablog.com/entry/2025/06/10/121331</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/nealle-dev.hatenablog.com/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://cdn.image.st-hatena.com/image/scale/d7680d2511c87d1ceeb959ec82ce62fffe4ed646/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flambig_in_nealle%2F20250609%2F20250609205912.png</hatena:imageurl>
+<hatena:bookmarkcount>26</hatena:bookmarkcount>
+</item>
+<item rdf:about="https://www.tokyo-sports.co.jp/articles/-/347804">
+<title>元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB</title>
+<link>https://www.tokyo-sports.co.jp/articles/-/347804</link>
+<description>元〝環境少女〟ことスウェーデンの気候変動活動家グレタ・トゥンベリさん（２２）がパレスチナ自治区ガザに人道支援物資を届けるため、国際ＮＧＯ「自由船団連合」の船「マドレーン号」に乗って航海していたが、９日未明にイスラエル軍に拿捕された。 船にはグレタさん、ドラマ「ゲーム・オブ・スローンズ」の俳優リアム...</description>
+<dc:date>2025-06-10T04:01:43Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>芸能</dc:subject>
+<dc:subject>news</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E8%8A%B8%E8%83%BD"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/news"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.tokyo-sports.co.jp/articles/-/347804" title="元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.tokyo-sports.co.jp%2Farticles%2F-%2F347804" alt="" /> <a href="https://www.tokyo-sports.co.jp/articles/-/347804">元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB</a></cite><p><a href="https://www.tokyo-sports.co.jp/articles/-/347804"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/c849e501527eeca584b6afd5cbff6d6c460c8ea8/height=90;version=1;width=120/https%3A%2F%2Ftokyo-sports.ismcdn.jp%2Fmwimgs%2Fb%2Fc%2F1200w%2Fimg_bcd6c5ecdd54df689ca6962f17e6639f113108.jpg" alt="元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB" title="元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB" class="entry-image" /></a></p><p>元〝環境少女〟ことスウェーデンの気候変動活動家グレタ・トゥンベリさん（２２）がパレスチナ自治区ガザに人道支援物資を届けるため、国際ＮＧＯ「自由船団連合」の船「マドレーン号」に乗って航海していたが、９日未明にイスラエル軍に拿捕された。 船にはグレタさん、ドラマ「ゲーム・オブ・スローンズ」の俳優リアム...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.tokyo-sports.co.jp/articles/-/347804"><img src="https://b.hatena.ne.jp/entry/image/https://www.tokyo-sports.co.jp/articles/-/347804" alt="はてなブックマーク - 元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB" title="はてなブックマーク - 元〝環境少女〟グレタ・トゥンベリさんの船団拿捕　システム妨害「私がやった」とユリ・ゲラー氏主張 | 東スポWEB" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.tokyo-sports.co.jp/articles/-/347804"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.tokyo-sports.co.jp/articles/-/347804</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.tokyo-sports.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:imageurl>https://tokyo-sports.ismcdn.jp/mwimgs/b/c/1200w/img_bcd6c5ecdd54df689ca6962f17e6639f113108.jpg</hatena:imageurl>
+<hatena:bookmarkcount>13</hatena:bookmarkcount>
+</item>
+<item rdf:about="https://future-architect.github.io/articles/20250610a/">
+<title>macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ</title>
+<link>https://future-architect.github.io/articles/20250610a/</link>
+<description>現在開催中の WWDC で、Linux コンテナネイティブサポートが発表されました。 Containerization の紹介 - WWDC25 - ビデオ - Apple Developer毎年 WWDC の時期になると仮想化のアップデートの話が来るのをずっと首を長くしてまっていた日々だったので、待望のアップデートです。macOS は以前から、Linux 仮想化の機能が ...</description>
+<dc:date>2025-06-10T05:25:29Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>apple</dc:subject>
+<dc:subject>Linux</dc:subject>
+<dc:subject>Docker</dc:subject>
+<dc:subject>OS</dc:subject>
+<dc:subject>Mac</dc:subject>
+<dc:subject>Windows</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Linux"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Docker"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/OS"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Mac"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Windows"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://future-architect.github.io/articles/20250610a/" title="macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ffuture-architect.github.io%2Farticles%2F20250610a%2F" alt="" /> <a href="https://future-architect.github.io/articles/20250610a/">macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ</a></cite><p><a href="https://future-architect.github.io/articles/20250610a/"><img src="" alt="macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ" title="macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ" class="entry-image" /></a></p><p>現在開催中の WWDC で、Linux コンテナネイティブサポートが発表されました。 Containerization の紹介 - WWDC25 - ビデオ - Apple Developer毎年 WWDC の時期になると仮想化のアップデートの話が来るのをずっと首を長くしてまっていた日々だったので、待望のアップデートです。macOS は以前から、Linux 仮想化の機能が ...</p><p><a href="https://b.hatena.ne.jp/entry/s/future-architect.github.io/articles/20250610a/"><img src="https://b.hatena.ne.jp/entry/image/https://future-architect.github.io/articles/20250610a/" alt="はてなブックマーク - macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ" title="はてなブックマーク - macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/future-architect.github.io/articles/20250610a/"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/future-architect.github.io/articles/20250610a/</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkcount>14</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/future-architect.github.io/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/">
+<title>Apple、デベロッパのためのツールとテクノロジーを強化</title>
+<link>https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/</link>
+<description>Appleはデベロッパのためのツールとテクノロジーを強化し、創造性、イノベーション、デザインを育みます デバイス上のApple Intelligenceモデルへのアクセス、Xcodeでの大規模言語モデルの統合、Appleプラットフォーム全体にわたる優雅な新しいソフトウェアデザインは、迅速に自信を持って美しい最新アプリを構築するた...</description>
+<dc:date>2025-06-09T21:22:26Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>Apple</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>人工知能</dc:subject>
+<dc:subject>プログラミング</dc:subject>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/Apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/iphone"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/" title="Apple、デベロッパのためのツールとテクノロジーを強化"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.apple.com%2Fjp%2Fnewsroom%2F2025%2F06%2Fapple-supercharges-its-tools-and-technologies-for-developers%2F" alt="" /> <a href="https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/">Apple、デベロッパのためのツールとテクノロジーを強化</a></cite><p><a href="https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/9c8e228a6fc60d35d89d85f1bd5fa9f38074f1ba/height=90;version=1;width=120/https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F06%2Fapple-supercharges-its-tools-and-technologies-for-developers%2Ftile%2FApple-WWDC25-macOS-Tahoe-26-XCode-26-250609-lp.jpg.og.jpg%3F202506091938" alt="Apple、デベロッパのためのツールとテクノロジーを強化" title="Apple、デベロッパのためのツールとテクノロジーを強化" class="entry-image" /></a></p><p>Appleはデベロッパのためのツールとテクノロジーを強化し、創造性、イノベーション、デザインを育みます デバイス上のApple Intelligenceモデルへのアクセス、Xcodeでの大規模言語モデルの統合、Appleプラットフォーム全体にわたる優雅な新しいソフトウェアデザインは、迅速に自信を持って美しい最新アプリを構築するた...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"><img src="https://b.hatena.ne.jp/entry/image/https://www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/" alt="はてなブックマーク - Apple、デベロッパのためのツールとテクノロジーを強化" title="はてなブックマーク - Apple、デベロッパのためのツールとテクノロジーを強化" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.apple.com/jp/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/</hatena:bookmarkCommentListPageUrl>
+<hatena:imageurl>https://www.apple.com/newsroom/images/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/tile/Apple-WWDC25-macOS-Tahoe-26-XCode-26-250609-lp.jpg.og.jpg?202506091938</hatena:imageurl>
+<hatena:bookmarkcount>26</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.apple.com/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://www.itmedia.co.jp/news/articles/2506/10/news072.html">
+<title>「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新</title>
+<link>https://www.itmedia.co.jp/news/articles/2506/10/news072.html</link>
+<description>米Appleは6月9日（現地時間）、「WWDC25」においてiPad向け次期OS「iPadOS 26」を発表した。新しいウィンドウシステムを導入し、サイズの自在な変更や複数ウインドウの表示を実現した他、Apple Intelligence機能を強化し、リアルタイム翻訳などを追加する。2025年秋に正式提供予定。 今回からナンバリングが共通となった...</description>
+<dc:date>2025-06-09T23:02:55Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>apple</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/iphone"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://www.itmedia.co.jp/news/articles/2506/10/news072.html" title="「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fnews072.html" alt="" /> <a href="https://www.itmedia.co.jp/news/articles/2506/10/news072.html">「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新</a></cite><p><a href="https://www.itmedia.co.jp/news/articles/2506/10/news072.html"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/6b4770405b2ca44a1fd05d50c7f17d944f9dff16/height=90;version=1;width=120/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2506%2F10%2Fcover_news072.jpg" alt="「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新" title="「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新" class="entry-image" /></a></p><p>米Appleは6月9日（現地時間）、「WWDC25」においてiPad向け次期OS「iPadOS 26」を発表した。新しいウィンドウシステムを導入し、サイズの自在な変更や複数ウインドウの表示を実現した他、Apple Intelligence機能を強化し、リアルタイム翻訳などを追加する。2025年秋に正式提供予定。 今回からナンバリングが共通となった...</p><p><a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news072.html"><img src="https://b.hatena.ne.jp/entry/image/https://www.itmedia.co.jp/news/articles/2506/10/news072.html" alt="はてなブックマーク - 「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新" title="はてなブックマーク - 「iPadOS 26」発表　マルチウインドウやファイル管理強化で、より“macOSっぽく”　デザインも刷新" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news072.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2506/10/news072.html</hatena:bookmarkCommentListPageUrl>
+<hatena:imageurl>https://image.itmedia.co.jp/news/articles/2506/10/cover_news072.jpg</hatena:imageurl>
+<hatena:bookmarkcount>32</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.itmedia.co.jp/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html">
+<title>macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。</title>
+<link>https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html</link>
+<description>macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポートするそうです。詳細は以下から。 Appleは日本時間2025年06月10日午前02時から世界開発者会議(WWDC25)を開催するとともに、基調講演を行い、Liquid Glassデザインを採用...</description>
+<dc:date>2025-06-10T00:26:07Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>mac</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<dc:subject>フォント</dc:subject>
+<dc:subject>font</dc:subject>
+<dc:subject>Apple</dc:subject>
+<dc:subject>デザイン</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/mac"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/font"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/Apple"/>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html" title="macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fapplech2.com%2Farchives%2F20250610-macos-26-tahoe-new-terminal.html" alt="" /> <a href="https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html">macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。</a></cite><p><a href="https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html"><img src="" alt="macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。" title="macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。" class="entry-image" /></a></p><p>macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポートするそうです。詳細は以下から。 Appleは日本時間2025年06月10日午前02時から世界開発者会議(WWDC25)を開催するとともに、基調講演を行い、Liquid Glassデザインを採用...</p><p><a href="https://b.hatena.ne.jp/entry/s/applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html"><img src="https://b.hatena.ne.jp/entry/image/https://applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html" alt="はてなブックマーク - macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。" title="はてなブックマーク - macOS 26 Tahoeでは、ターミナルアプリが刷新され24-bitカラーやLiquid Glassデザインにインスパイアされた新しいテーマ、Powerlineフォントをサポート。" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/applech2.com/archives/20250610-macos-26-tahoe-new-terminal.html</hatena:bookmarkCommentListPageUrl>
+<hatena:bookmarkcount>23</hatena:bookmarkcount>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/applech2.com/</hatena:bookmarkSiteEntriesListUrl>
+</item>
+<item rdf:about="https://ascii.jp/elem/000/004/280/4280488/">
+<title>Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加</title>
+<link>https://ascii.jp/elem/000/004/280/4280488/</link>
+<description>sponsored 第12世代Core搭載のSTYLE-I1MA-i3-UHX-BKをレビュー 約7万円で片手サイズ！Windows 10からの買い替えにもイイ感じなコンパクトPCはいかが？ sponsored GDEPソリューションズ社長の語る、GPUのこれまでとこれから 「買ってすぐ業務に使える」ローカル完結型のRAGが生まれた背景 sponsored Nintendo Switch 2の...</description>
+<dc:date>2025-06-09T21:56:06Z</dc:date>
+<dc:subject>テクノロジー</dc:subject>
+<dc:subject>あとで読む</dc:subject>
+<taxo:topics>
+<rdf:Bag>
+<rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80"/>
+</rdf:Bag>
+</taxo:topics>
+<content:encoded><blockquote cite="https://ascii.jp/elem/000/004/280/4280488/" title="Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加"><cite><img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fascii.jp%2Felem%2F000%2F004%2F280%2F4280488%2F" alt="" /> <a href="https://ascii.jp/elem/000/004/280/4280488/">Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加</a></cite><p><a href="https://ascii.jp/elem/000/004/280/4280488/"><img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/4144ea2021e1c42ab0ba34138328dfc8d331192d/height=90;version=1;width=120/https%3A%2F%2Fascii.jp%2Fimg%2F2025%2F06%2F09%2F4232547%2Fxl%2F828644253f3a3ffb.png%3F20200122" alt="Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加" title="Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加" class="entry-image" /></a></p><p>sponsored 第12世代Core搭載のSTYLE-I1MA-i3-UHX-BKをレビュー 約7万円で片手サイズ！Windows 10からの買い替えにもイイ感じなコンパクトPCはいかが？ sponsored GDEPソリューションズ社長の語る、GPUのこれまでとこれから 「買ってすぐ業務に使える」ローカル完結型のRAGが生まれた背景 sponsored Nintendo Switch 2の...</p><p><a href="https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/280/4280488/"><img src="https://b.hatena.ne.jp/entry/image/https://ascii.jp/elem/000/004/280/4280488/" alt="はてなブックマーク - Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加" title="はてなブックマーク - Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加" border="0" style="border: none" /></a> <a href="https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/280/4280488/"><img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /></a></p></blockquote></content:encoded>
+<hatena:bookmarkcount>20</hatena:bookmarkcount>
+<hatena:imageurl>https://ascii.jp/img/2025/06/09/4232547/xl/828644253f3a3ffb.png?20200122</hatena:imageurl>
+<hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/ascii.jp/</hatena:bookmarkSiteEntriesListUrl>
+<hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/280/4280488/</hatena:bookmarkCommentListPageUrl>
+</item>
+</rdf:RDF>
