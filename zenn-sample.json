@@ -1,0 +1,52 @@
+[
+	{
+		"id": 417605,
+		"postType": "Article",
+		"title": "n8nを使って面倒くさいリリースノートのチェックを自動化してみた",
+		"slug": "n8n-google-cloud-release-note",
+		"commentsCount": 0,
+		"likedCount": 54,
+		"bookmarkedCount": 17,
+		"bodyLettersCount": 14658,
+		"articleType": "tech",
+		"emoji": "🐻",
+		"isSuspendingPrivate": false,
+		"publishedAt": "2025-06-09T08:57:34.804+09:00",
+		"bodyUpdatedAt": "2025-06-09T08:57:34.804+09:00",
+		"sourceRepoUpdatedAt": "2025-06-09T08:57:34.804+09:00",
+		"pinned": false,
+		"path": "/cloud_ace/articles/n8n-google-cloud-release-note",
+		"user": {
+			"id": 81816,
+			"username": "cloud_ace",
+			"name": "クラウドエース株式会社",
+			"avatarSmallUrl": "https://res.cloudinary.com/zenn/image/fetch/s--9bKd4d9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_70/https://storage.googleapis.com/zenn-user-upload/avatar/168c0bc812.jpeg"
+		},
+		"publication": null
+	},
+	{
+		"id": 416900,
+		"postType": "Article",
+		"title": "Google主催『AI エージェント 実践集中コース』に参加した",
+		"slug": "a8d66977d97daa",
+		"commentsCount": 0,
+		"likedCount": 56,
+		"bookmarkedCount": 43,
+		"bodyLettersCount": 22659,
+		"articleType": "tech",
+		"emoji": "🚀",
+		"isSuspendingPrivate": false,
+		"publishedAt": "2025-06-08T17:12:26.979+09:00",
+		"bodyUpdatedAt": "2025-06-08T17:10:24.461+09:00",
+		"sourceRepoUpdatedAt": null,
+		"pinned": false,
+		"path": "/mizunny/articles/a8d66977d97daa",
+		"user": {
+			"id": 141540,
+			"username": "mizunny",
+			"name": "mizuchan",
+			"avatarSmallUrl": "https://res.cloudinary.com/zenn/image/fetch/s--y3zY0Js1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_70/https://storage.googleapis.com/zenn-user-upload/avatar/860a2822aa.jpeg"
+		},
+		"publication": null
+	}
+]

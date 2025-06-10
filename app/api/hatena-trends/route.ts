@@ -21,6 +21,7 @@ export async function GET() {
 			bookmarkCount: item['hatena:bookmarkcount']
 				? Number.parseInt(item['hatena:bookmarkcount'])
 				: 0,
+			pubDate: item.pubDate || item.isoDate,
 		}))
 		const response = NextResponse.json(articles)
 		response.headers.set('Cache-Control', 'no-store, max-age=0')
