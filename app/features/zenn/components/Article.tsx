@@ -4,19 +4,11 @@ import { useEffect, useState } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
 import { Heart } from 'lucide-react'
 import { formatDate } from '@/app/utils/dateUtils'
+import { ZennArticle } from '@/app/lib/schemas'
 
 // Zenn Tech Trendの記事を取得して表示する
 
-interface ArticleData {
-	id: number
-	title: string
-	slug: string
-	emoji: string
-	user: { name: string }
-	path: string
-	likedCount: number
-	publishedAt: string
-}
+type ArticleData = ZennArticle
 
 interface ArticleProps {
 	apiUrl: string
@@ -35,6 +27,7 @@ const Article = ({ apiUrl }: ArticleProps) => {
 					throw new Error('APIリクエストに失敗しました')
 				}
 				const data = await response.json()
+				// Zenn APIのレスポンスは外部APIなので基本的なエラーハンドリングのみ実施
 				setArticles(data.slice(0, 20))
 			} catch (error) {
 				console.error('記事の取得に失敗しました:', error)

@@ -2,13 +2,9 @@
 import { useState, useEffect } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
 import { formatDate } from '@/app/utils/dateUtils'
+import { HatenaArticle as HatenaArticleType } from '@/app/lib/schemas'
 
-interface Article {
-	title: string
-	link: string
-	bookmarkCount: number
-	pubDate?: string
-}
+type Article = HatenaArticleType
 
 const HatenaArticle = () => {
 	const [articles, setArticles] = useState<Article[]>([])
@@ -41,10 +37,9 @@ const HatenaArticle = () => {
 	return (
 		<div>
 			<div className=''>
-				{articles.map((article, index) => (
+				{articles.map((article) => (
 					<div
-						// biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
-						key={index}
+						key={article.link}
 						className='flex flex-col gap-2 pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
 					>
 						<a

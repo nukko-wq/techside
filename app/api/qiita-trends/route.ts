@@ -1,12 +1,13 @@
-import { NextResponse } from 'next/server'
 import Parser from 'rss-parser'
+import { withApiErrorHandling, validateApiResponse } from '@/app/lib/apiUtils'
+import { QiitaArticlesSchema } from '@/app/lib/schemas'
 
 // APIルートをダイナミックに設定してキャッシュを無効化
 export const dynamic = 'force-dynamic'
 export const revalidate = 0
 
 export async function GET() {
-	try {
+	return withApiErrorHandling(async () => {
 		const parser = new Parser()
 		
 		// RSS URLに現在時刻をクエリパラメータとして追加してキャッシュを回避
@@ -15,23 +16,18 @@ export async function GET() {
 		
 		const feed = await parser.parseURL(rssUrl)
 		const articles = feed.items.map((item) => ({
-			title: item.title,
-			link: item.link,
-			author: item.author,
-			pubDate: item.pubDate,
+			title: item.title || 'タイトル不明',
+			link: item.link || '',
+			author: item.author || '作者不明',
+			pubDate: item.pubDate || '',
 		}))
-
-		const response = NextResponse.json(articles)
-		// より強力なキャッシュ無効化ヘッダーを設定
-		response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0')
-		response.headers.set('Pragma', 'no-cache')
-		response.headers.set('Expires', '0')
-		return response
-	} catch (error) {
-		console.error('RSSフィードの取得に失敗しました', error)
-		return NextResponse.json(
-			{ error: 'RSSフィードの取得に失敗しました' },
-			{ status: 500 },
-		)
-	}
+		
+		// データの妥当性を検証
+		const validation = validateApiResponse(articles, QiitaArticlesSchema)
+		if (!validation.success) {
+			throw new Error(`データの妥当性検証に失敗: ${validation.error}`)
+		}
+		
+		return validation.data
+	}, 'Qiitaトレンドの取得に失敗しました')
 }

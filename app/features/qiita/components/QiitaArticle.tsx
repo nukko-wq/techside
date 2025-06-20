@@ -2,13 +2,9 @@
 import { useState, useEffect } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
 import { formatDate } from '@/app/utils/dateUtils'
+import { QiitaArticle as QiitaArticleType } from '@/app/lib/schemas'
 
-interface Article {
-	title: string
-	link: string
-	pubDate: string
-	author: string
-}
+type Article = QiitaArticleType
 
 const QiitaArticle = () => {
 	const [articles, setArticles] = useState<Article[]>([])
@@ -47,10 +43,9 @@ const QiitaArticle = () => {
 	return (
 		<div>
 			<div className=''>
-				{articles.map((article, index) => (
+				{articles.map((article) => (
 					<div
-						// biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
-						key={index}
+						key={article.link}
 						className='flex flex-col gap-2 pb-4 mb-4 border-b last:border-none last:mb-0 border-slate-300'
 					>
 						<a
