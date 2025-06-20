@@ -3,29 +3,9 @@
 import { useEffect, useState } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
 import { Heart } from 'lucide-react'
+import { formatDate } from '@/app/utils/dateUtils'
 
 // Zenn Tech Trendの記事を取得して表示する
-
-// 相対時間をフォーマットする関数
-const formatDate = (dateString: string) => {
-	const publishedDate = new Date(dateString)
-	const now = new Date()
-	const diffInMs = now.getTime() - publishedDate.getTime()
-	const diffInHours = Math.floor(diffInMs / (1000 * 60 * 60))
-	const diffInDays = Math.floor(diffInMs / (1000 * 60 * 60 * 24))
-	const diffInMinutes = Math.floor(diffInMs / (1000 * 60))
-
-	if (diffInDays >= 1) {
-		return `${diffInDays}日前`
-	}
-	if (diffInHours >= 1) {
-		return `約${diffInHours}時間前`
-	}
-	if (diffInMinutes >= 1) {
-		return `${diffInMinutes}分前`
-	}
-	return 'たった今'
-}
 
 interface ArticleData {
 	id: number
