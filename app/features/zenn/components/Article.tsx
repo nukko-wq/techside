@@ -1,7 +1,9 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useCallback } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
+import ErrorState from '@/app/components/ui/ErrorState/ErrorState'
+import EmptyState from '@/app/components/ui/EmptyState/EmptyState'
 import { Heart } from 'lucide-react'
 import { formatDate } from '@/app/utils/dateUtils'
 import { ZennArticle } from '@/app/lib/schemas'
@@ -19,32 +21,52 @@ const Article = ({ apiUrl }: ArticleProps) => {
 	const [isLoading, setIsLoading] = useState(true)
 	const [error, setError] = useState<string | null>(null)
 
-	useEffect(() => {
-		const fetchArticles = async () => {
-			try {
-				const response = await fetch(apiUrl)
-				if (!response.ok) {
-					throw new Error('APIリクエストに失敗しました')
-				}
-				const data = await response.json()
-				// Zenn APIのレスポンスは外部APIなので基本的なエラーハンドリングのみ実施
-				setArticles(data.slice(0, 20))
-			} catch (error) {
-				console.error('記事の取得に失敗しました:', error)
-				setError('記事の取得に失敗しました')
-			} finally {
-				setIsLoading(false)
+	const fetchArticles = useCallback(async () => {
+		setIsLoading(true)
+		setError(null)
+		try {
+			const response = await fetch(apiUrl)
+			if (!response.ok) {
+				throw new Error(`HTTPエラー: ${response.status}`)
 			}
+			const data = await response.json()
+			// Zenn APIのレスポンスは外部APIなので基本的なエラーハンドリングのみ実施
+			setArticles(data.slice(0, 20))
+		} catch (error) {
+			const errorMessage = error instanceof Error ? error.message : 'Zenn記事の取得に失敗しました'
+			setError(errorMessage)
+			console.error('ZennArticle fetch error:', error)
+		} finally {
+			setIsLoading(false)
 		}
-		fetchArticles()
 	}, [apiUrl])
+
+	useEffect(() => {
+		fetchArticles()
+	}, [fetchArticles])
 
 	if (isLoading) {
 		return <Spinner />
 	}
 
 	if (error) {
-		return <div className='text-red-500'>{error}</div>
+		return (
+			<ErrorState
+				message={error}
+				details='Zennからの記事取得でエラーが発生しました。外部APIの状態を確認してください。'
+				onRetry={fetchArticles}
+			/>
+		)
+	}
+
+	if (articles.length === 0) {
+		return (
+			<EmptyState
+				message='現在表示できるZenn記事がありません'
+				showRetry
+				onRetry={fetchArticles}
+			/>
+		)
 	}
 
 	return (
