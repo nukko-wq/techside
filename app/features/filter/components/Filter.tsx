@@ -1,6 +1,6 @@
 'use client'
 
-// biome-ignore lint/style/useImportType: <explanation>
+// biome-ignore lint/style/useImportType: React is needed for JSX and context provider runtime
 import React, { createContext, useState, useContext } from 'react'
 
 export type FilterType = 'all' | 'zenn' | 'qiita' | 'hatena'

@@ -1,42 +1,16 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useCallback } from 'react'
 import Spinner from '@/app/components/elements/Spinner/Spinner'
+import ErrorState from '@/app/components/ui/ErrorState/ErrorState'
+import EmptyState from '@/app/components/ui/EmptyState/EmptyState'
 import { Heart } from 'lucide-react'
+import { formatDate } from '@/app/utils/dateUtils'
+import { ZennArticle } from '@/app/lib/schemas'
 
 // Zenn Tech Trendの記事を取得して表示する
 
-// 相対時間をフォーマットする関数
-const formatDate = (dateString: string) => {
-	const publishedDate = new Date(dateString)
-	const now = new Date()
-	const diffInMs = now.getTime() - publishedDate.getTime()
-	const diffInHours = Math.floor(diffInMs / (1000 * 60 * 60))
-	const diffInDays = Math.floor(diffInMs / (1000 * 60 * 60 * 24))
-	const diffInMinutes = Math.floor(diffInMs / (1000 * 60))
-
-	if (diffInDays >= 1) {
-		return `${diffInDays}日前`
-	}
-	if (diffInHours >= 1) {
-		return `約${diffInHours}時間前`
-	}
-	if (diffInMinutes >= 1) {
-		return `${diffInMinutes}分前`
-	}
-	return 'たった今'
-}
-
-interface ArticleData {
-	id: number
-	title: string
-	slug: string
-	emoji: string
-	user: { name: string }
-	path: string
-	likedCount: number
-	publishedAt: string
-}
+type ArticleData = ZennArticle
 
 interface ArticleProps {
 	apiUrl: string
@@ -47,31 +21,52 @@ const Article = ({ apiUrl }: ArticleProps) => {
 	const [isLoading, setIsLoading] = useState(true)
 	const [error, setError] = useState<string | null>(null)
 
-	useEffect(() => {
-		const fetchArticles = async () => {
-			try {
-				const response = await fetch(apiUrl)
-				if (!response.ok) {
-					throw new Error('APIリクエストに失敗しました')
-				}
-				const data = await response.json()
-				setArticles(data.slice(0, 20))
-			} catch (error) {
-				console.error('記事の取得に失敗しました:', error)
-				setError('記事の取得に失敗しました')
-			} finally {
-				setIsLoading(false)
+	const fetchArticles = useCallback(async () => {
+		setIsLoading(true)
+		setError(null)
+		try {
+			const response = await fetch(apiUrl)
+			if (!response.ok) {
+				throw new Error(`HTTPエラー: ${response.status}`)
 			}
+			const data = await response.json()
+			// Zenn APIのレスポンスは外部APIなので基本的なエラーハンドリングのみ実施
+			setArticles(data.slice(0, 20))
+		} catch (error) {
+			const errorMessage = error instanceof Error ? error.message : 'Zenn記事の取得に失敗しました'
+			setError(errorMessage)
+			console.error('ZennArticle fetch error:', error)
+		} finally {
+			setIsLoading(false)
 		}
-		fetchArticles()
 	}, [apiUrl])
+
+	useEffect(() => {
+		fetchArticles()
+	}, [fetchArticles])
 
 	if (isLoading) {
 		return <Spinner />
 	}
 
 	if (error) {
-		return <div className='text-red-500'>{error}</div>
+		return (
+			<ErrorState
+				message={error}
+				details='Zennからの記事取得でエラーが発生しました。外部APIの状態を確認してください。'
+				onRetry={fetchArticles}
+			/>
+		)
+	}
+
+	if (articles.length === 0) {
+		return (
+			<EmptyState
+				message='現在表示できるZenn記事がありません'
+				showRetry
+				onRetry={fetchArticles}
+			/>
+		)
 	}
 
 	return (
