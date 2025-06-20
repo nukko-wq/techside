@@ -18,7 +18,7 @@
 		"tailwind-variants": "^0.2.1"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.0.0",
 		"@tailwindcss/postcss": "^4.1.8",
 		"@types/node": "^22.15.30",
 		"@types/react": "19.1.6",
